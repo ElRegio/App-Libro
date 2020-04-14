@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tlalcoyote" size="10.000000 7.727273" />
+    <ImageTarget name="Perrito" size="10.000000 7.727273" />
+    <ImageTarget name="Conejo" size="10.000000 7.727273" />
+    <ImageTarget name="Bisonte" size="10.000000 7.727273" />
+    <ImageTarget name="Berrendo" size="10.000000 7.727273" />
+    <ImageTarget name="Temazate" size="10.000000 7.727273" />
+    <ImageTarget name="Tapir" size="10.000000 7.727273" />
+    <ImageTarget name="OsoHormiguero" size="10.000000 7.727273" />
+    <ImageTarget name="Nutria" size="10.000000 7.727273" />
+    <ImageTarget name="Jabali" size="10.000000 7.727273" />
+  </Tracking>
+</QCARConfig>
