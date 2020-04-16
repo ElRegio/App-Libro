@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Matorrales/Cuadro_Jabali.unity
+- path: Assets/Scenes/Matorrales/Cuadro_Pecari.unity
   isLoaded: 1
   isActive: 1

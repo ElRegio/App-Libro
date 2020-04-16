@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 271745c721169ea489e5d7b8b1563767
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Borrego
+    100004: Cactus1
+    100006: Cactus2
+    100008: Cactus2_
+    100010: Cactus3
+    100012: Cactus4
+    100014: CactusFlor
+    100016: CactusFlor1
+    100018: CuadroMatorrales
+    100020: Izote
+    100022: PastoT2
+    100024: PastoT3
+    100026: PastoT4
+    100028: PastoT5
+    100030: PastoT6
+    100032: Piedra
+    100034: Piedra1
+    400000: //RootNode
+    400002: Borrego
+    400004: Cactus1
+    400006: Cactus2
+    400008: Cactus2_
+    400010: Cactus3
+    400012: Cactus4
+    400014: CactusFlor
+    400016: CactusFlor1
+    400018: CuadroMatorrales
+    400020: Izote
+    400022: PastoT2
+    400024: PastoT3
+    400026: PastoT4
+    400028: PastoT5
+    400030: PastoT6
+    400032: Piedra
+    400034: Piedra1
+    2100000: Piedra_mat
+    2100002: TerrenoMat
+    2100004: CactusFlorMat
+    2100006: Cactus1Mat
+    2100008: Cactus2Mat
+    2100010: BorregoMat
+    2100012: PastoT2Mat
+    2100014: Cactus3Mat
+    2100016: IzoteMat
+    2300000: Borrego
+    2300002: Cactus1
+    2300004: Cactus2
+    2300006: Cactus2_
+    2300008: Cactus3
+    2300010: Cactus4
+    2300012: CactusFlor
+    2300014: CactusFlor1
+    2300016: CuadroMatorrales
+    2300018: Izote
+    2300020: PastoT2
+    2300022: PastoT3
+    2300024: PastoT4
+    2300026: PastoT5
+    2300028: PastoT6
+    2300030: Piedra
+    2300032: Piedra1
+    3300000: Borrego
+    3300002: Cactus1
+    3300004: Cactus2
+    3300006: Cactus2_
+    3300008: Cactus3
+    3300010: Cactus4
+    3300012: CactusFlor
+    3300014: CactusFlor1
+    3300016: CuadroMatorrales
+    3300018: Izote
+    3300020: PastoT2
+    3300022: PastoT3
+    3300024: PastoT4
+    3300026: PastoT5
+    3300028: PastoT6
+    3300030: Piedra
+    3300032: Piedra1
+    4300000: Piedra
+    4300002: CuadroMatorrales
+    4300004: CactusFlor
+    4300006: Cactus1
+    4300008: Cactus2
+    4300010: Borrego
+    4300012: PastoT2
+    4300014: PastoT3
+    4300016: PastoT4
+    4300018: Cactus2_
+    4300020: Cactus3
+    4300022: CactusFlor1
+    4300024: PastoT5
+    4300026: PastoT6
+    4300028: Cactus4
+    4300030: Piedra1
+    4300032: Izote
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
