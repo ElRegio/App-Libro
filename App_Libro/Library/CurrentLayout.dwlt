@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 671
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 1437
     height: 671
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -292,7 +292,7 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 29572
+  m_LastSelectedObjectID: -1268
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -578,20 +578,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Modelos/Cuadros_Pastizales/Materiales/Piedra
+    - Assets/Modelos/Cuadros_Pastizales/Materiales
   m_ViewMode: 1
   m_StartGridSize: 87
   m_LastFolders:
-  - Assets/Modelos/Cuadros_Pastizales/Materiales/Piedra
+  - Assets/Modelos/Cuadros_Pastizales/Materiales
   m_LastFoldersGridSize: 87
   m_LastProjectPath: C:\Users\SPARTAN PC\Documents\GitHub\App-Libro\App_Libro
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 866}
-    m_SelectedIDs: 422e0000
-    m_LastClickedID: 11842
-    m_ExpandedIDs: 00000000262d0000f82e0000c62f0000723000002c310000a4310000fe320000a2330000f2330000ea3400001e3900001a3a0000243a0000ae3f00002a4000002e4000002e4800003048000032480000ce4c000000ca9a3b
+    scrollPos: {x: 0, y: 738}
+    m_SelectedIDs: 503b0000
+    m_LastClickedID: 15184
+    m_ExpandedIDs: 00000000262d0000f82e0000c62f0000723000000831000030310000a831000004330000a8330000f83300005c350000543a0000503b00005a3b0000b24100002e4200003242000022480000244800002648000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000262d0000f82e0000c62f0000723000002c310000a4310000fe320000a2330000f2330000ea3400001e3900001a3a0000243a0000ae3f00002a4000002e4000002e4800003048000032480000
+    m_ExpandedIDs: 00000000262d0000f82e0000c62f0000723000000831000030310000a831000004330000a8330000f83300005c350000543a0000503b00005a3b0000b24100002e42000032420000224800002448000026480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -735,23 +735,23 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 422e0000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 2afdfaff507efbffbc98fbffdea7fbffa2aafbff5eb5fbff564ffcffaa5afcfff85efcff5a61fcff2abafdffc0befdffb0c4fdffcccafdff0cccfdff12d2feffd2e3feff9ce5feffc6e7feff6ae8feff7af2ffff7cf2ffffdcf3ffff0efbffff00000000064a00006a5c0000565d00007c5d0000a45d00002c6700003267000092740000aa780000ba7a0000ae860000fe880000
+    m_SelectedIDs: 0c89ffff
+    m_LastClickedID: -30452
+    m_ExpandedIDs: 0e89ffff0c8bffffc29cffffeca9ffffeea9ffffd6b3ffff0efbffff000000000c470000904c00005c4f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Cactus4
-      m_OriginalName: Cactus4
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -77306
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -823,11 +823,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.13490123, y: 0.00061566, z: -0.000097605, w: 0.99088836}
     speed: 2
-    m_Value: {x: 0.13489729, y: 0.000615642, z: -0.00009760215, w: 0.9908594}
+    m_Value: {x: -0.13490123, y: -0.00061566, z: 0.00009760499, w: -0.9908883}
   m_Size:
-    m_Target: 12.513124
+    m_Target: 11.853532
     speed: 2
-    m_Value: 12.513124
+    m_Value: 11.853532
   m_Ortho:
     m_Target: 0
     speed: 2
