@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
+- path: Assets/Scenes/Matorrales/Cuadro_Liebre.unity
   isLoaded: 1
   isActive: 1
