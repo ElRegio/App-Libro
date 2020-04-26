@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 2628cdeb725bd554d9e02d7bed1e3a22
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CuadroBosqueTemplad
+    100002: PastoT2
+    100004: PastoT3
+    100006: PastoT4
+    100008: PastoT5
+    100010: PastoT6
+    100012: Piedra
+    100014: Piedra1
+    100016: pino
+    100018: pino1
+    100020: pino2
+    100022: pino3
+    100024: pino4
+    100026: pino5
+    100028: pino6
+    100030: //RootNode
+    100032: VenadoColaBlanca
+    400000: CuadroBosqueTemplad
+    400002: PastoT2
+    400004: PastoT3
+    400006: PastoT4
+    400008: PastoT5
+    400010: PastoT6
+    400012: Piedra
+    400014: Piedra1
+    400016: pino
+    400018: pino1
+    400020: pino2
+    400022: pino3
+    400024: pino4
+    400026: pino5
+    400028: pino6
+    400030: //RootNode
+    400032: VenadoColaBlanca
+    2100000: Piedra_mat
+    2100002: PastoT2Mat
+    2100004: CuadroMat
+    2100006: PinoMat
+    2100008: VandoMat
+    2300000: CuadroBosqueTemplad
+    2300002: PastoT2
+    2300004: PastoT3
+    2300006: PastoT4
+    2300008: PastoT5
+    2300010: PastoT6
+    2300012: Piedra
+    2300014: Piedra1
+    2300016: pino
+    2300018: pino1
+    2300020: pino2
+    2300022: pino3
+    2300024: pino4
+    2300026: pino5
+    2300028: pino6
+    2300030: VenadoColaBlanca
+    3300000: CuadroBosqueTemplad
+    3300002: PastoT2
+    3300004: PastoT3
+    3300006: PastoT4
+    3300008: PastoT5
+    3300010: PastoT6
+    3300012: Piedra
+    3300014: Piedra1
+    3300016: pino
+    3300018: pino1
+    3300020: pino2
+    3300022: pino3
+    3300024: pino4
+    3300026: pino5
+    3300028: pino6
+    3300030: VenadoColaBlanca
+    4300000: Piedra
+    4300002: PastoT2
+    4300004: PastoT3
+    4300006: PastoT4
+    4300008: PastoT5
+    4300010: PastoT6
+    4300012: Piedra1
+    4300014: CuadroBosqueTemplad
+    4300016: pino
+    4300018: pino1
+    4300020: pino2
+    4300022: pino3
+    4300024: pino4
+    4300026: pino5
+    4300028: pino6
+    4300030: VenadoColaBlanca
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
