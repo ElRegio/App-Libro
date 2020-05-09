@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 957
-  m_MinSize: {x: 681, y: 492}
+  m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 52
+  controlID: 65
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 686
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1007
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -208,10 +208,10 @@ MonoBehaviour:
     y: 0
     width: 1641
     height: 957
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 53
+  controlID: 66
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -232,10 +232,10 @@ MonoBehaviour:
     y: 0
     width: 1641
     height: 686
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 54
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -478,7 +478,7 @@ MonoBehaviour:
       width: 4245.926
       height: 1920
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 0.3375
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1433, y: 665}
@@ -578,20 +578,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Datos/SelvaHumeda
+    - Assets/Scenes/SelvaHumeda
   m_ViewMode: 1
   m_StartGridSize: 87
   m_LastFolders:
-  - Assets/Datos/SelvaHumeda
+  - Assets/Scenes/SelvaHumeda
   m_LastFoldersGridSize: 87
   m_LastProjectPath: C:\ProyectoTesis\App-Libro\App_Libro
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: d0440000
-    m_LastClickedID: 17616
-    m_ExpandedIDs: 000000006c2e00004830000020310000ce3100006c3200000a330000883300003e350000e83500003c36000048360000ac3700000a3d0000d63e0000e03e0000783f000022460000a4460000aa460000f84800008c5000008e5000009050000000ca9a3b
+    scrollPos: {x: 0, y: 1655}
+    m_SelectedIDs: c4340000
+    m_LastClickedID: 13508
+    m_ExpandedIDs: 00000000282d00001a2f0000f22f0000a03000003e310000e03100005e32000018340000c63400001a350000263500008a3600003e380000ec3b0000bc3d0000c63d00005e3e0000104500009245000098450000ee4700001e4d0000204d0000224d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c2e00004830000020310000ce3100006c3200000a330000883300003e350000e83500003c36000048360000ac3700000a3d0000d63e0000e03e0000783f000022460000a4460000aa460000f84800008c5000008e50000090500000
+    m_ExpandedIDs: 00000000282d00001a2f0000f22f0000a03000003e310000e03100005e32000018340000c63400001a350000263500008a360000ec3b0000bc3d0000c63d00005e3e0000104500009245000098450000ee4700001e4d0000204d0000224d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,7 +646,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000243400008e2e0000762e0000863a0000e63a00000c3c00002c0bfbff4e32000000420000042f0000000000003e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -735,9 +735,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 0a3e0000
     m_LastClickedID: 0
-    m_ExpandedIDs: 1afbffff2cfbffff00000000
+    m_ExpandedIDs: e8b5ffffb0bdffff34bfffff82c2ffffe4fbffff000000007453000078530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,14 +786,14 @@ MonoBehaviour:
     height: 665
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 8375.9062975
+  lastFramingTime: 296.1167375
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.5717826, y: 2.4762993, z: -3.0455375}
+    m_Target: {x: -0.3866657, y: 2.1525233, z: -1.9057746}
     speed: 2
-    m_Value: {x: 0.5717826, y: 2.4762993, z: -3.0455375}
+    m_Value: {x: -0.3866657, y: 2.1525233, z: -1.9057746}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +821,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.15956606, y: 0.156224, z: -0.025555534, w: -0.9744138}
+    m_Target: {x: -0.031792417, y: 0.029950099, z: -0.000926702, w: -0.999048}
     speed: 2
-    m_Value: {x: -0.15956607, y: 0.156224, z: -0.025555536, w: -0.9744139}
+    m_Value: {x: -0.03179233, y: 0.029950017, z: -0.00092669943, w: -0.99904525}
   m_Size:
-    m_Target: 5701.94
+    m_Target: 9.138278
     speed: 2
-    m_Value: 5701.94
+    m_Value: 9.138278
   m_Ortho:
     m_Target: 0
     speed: 2
