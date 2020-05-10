@@ -53,7 +53,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Jabali.unity
     guid: 529e6da4c2b328d448e29405d95e75d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Nutria.unity
     guid: 18458cc5b418a7d4ebb0bed6c43ca988
+  - enabled: 0
+    path: Assets/Scenes/SelvaHumeda/Cuadro_OsoHormiguero.unity
+    guid: efb589f9875347a49b8c6bddece0bf49
+  - enabled: 0
+    path: Assets/Scenes/SelvaHumeda/Cuadro_Tapir.unity
+    guid: 90a6c27839051dc4b8276ae60546645b
+  - enabled: 1
+    path: Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
+    guid: de4a7cdb51917bc43a2ecd97e0537b8d
   m_configObjects: {}

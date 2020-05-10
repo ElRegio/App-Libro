@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SelvaHumeda/Cuadro_OsoHormiguero.unity
+- path: Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
   isLoaded: 1
   isActive: 1

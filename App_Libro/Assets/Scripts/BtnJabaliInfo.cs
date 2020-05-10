@@ -8,12 +8,13 @@ public class BtnJabaliInfo : MonoBehaviour
     string btnName;
     int Conteo;
     GameObject DatoJabali;
+    GameObject DatoJabali2;
     GameObject DatoCeriman;
     GameObject DatoCaoba;
     GameObject DatoCedroRojo;
     GameObject DatoHelecho;
     GameObject DatoLiana;
-    GameObject DatoJabali2;
+   
 
     // Use this for initialization
     void Start()
@@ -25,12 +26,12 @@ public class BtnJabaliInfo : MonoBehaviour
         DatoJabali2 = GameObject.Find("JabaliDato2");
         DatoJabali2.SetActive(false);
 
-        DatoCeriman = GameObject.Find("CerimanDato");
-        DatoCeriman.SetActive(false);
-
         DatoCaoba = GameObject.Find("CaobaDato");
         DatoCaoba.SetActive(false);
 
+        DatoCeriman = GameObject.Find("CerimanDato");
+        DatoCeriman.SetActive(false);
+             
         DatoCedroRojo = GameObject.Find("CedroDato");
         DatoCedroRojo.SetActive(false);
 
@@ -55,12 +56,16 @@ public class BtnJabaliInfo : MonoBehaviour
     public void Close()
     {
         DatoJabali.SetActive(false);
+        DatoJabali2.SetActive(false);
+        DatoCaoba.SetActive(false);
+        DatoCeriman.SetActive(false);
+        DatoCedroRojo.SetActive(false);
         DatoHelecho.SetActive(false);
         DatoLiana.SetActive(false);
-        DatoCeriman.SetActive(false);
-        DatoCaoba.SetActive(false);
-        DatoCedroRojo.SetActive(false);
-        DatoJabali2.SetActive(false);
+        
+        
+        
+        
 
     }
     // Update is called once per frame

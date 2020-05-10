@@ -14,6 +14,7 @@ public class BtnNutriaInfo : MonoBehaviour
     GameObject DatoHelecho;
     GameObject DatoLiana;
     GameObject DatoNutria2;
+    GameObject DatoNutria3;
 
     // Use this for initialization
     void Start()
@@ -25,11 +26,14 @@ public class BtnNutriaInfo : MonoBehaviour
         DatoNutria2 = GameObject.Find("NutriaDato2");
         DatoNutria2.SetActive(false);
 
-        DatoCeriman = GameObject.Find("CerimanDato");
-        DatoCeriman.SetActive(false);
+        DatoNutria3 = GameObject.Find("NutriaDato3");
+        DatoNutria3.SetActive(false);
 
         DatoCaoba = GameObject.Find("CaobaDato");
         DatoCaoba.SetActive(false);
+
+        DatoCeriman = GameObject.Find("CerimanDato");
+        DatoCeriman.SetActive(false);
 
         DatoCedroRojo = GameObject.Find("CedroDato");
         DatoCedroRojo.SetActive(false);
@@ -50,18 +54,24 @@ public class BtnNutriaInfo : MonoBehaviour
     }
     public void Next2()
     {
-
+        DatoNutria2.SetActive(false);
+        DatoNutria3.SetActive(true);
     }
     public void Close()
     {
         DatoNutria.SetActive(false);
+        DatoNutria2.SetActive(false);
+        DatoNutria3.SetActive(false);
+        DatoCaoba.SetActive(false);
+        DatoCeriman.SetActive(false);
+        DatoCedroRojo.SetActive(false);
         DatoHelecho.SetActive(false);
         DatoLiana.SetActive(false);
-        DatoCeriman.SetActive(false);
-        DatoCaoba.SetActive(false);
-        DatoCedroRojo.SetActive(false);
-        DatoNutria2.SetActive(false);
-
+        
+     
+        
+       
+        
     }
     // Update is called once per frame
     void Update()
