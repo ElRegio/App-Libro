@@ -924,6 +924,14 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: 3.07
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 5751e7bcad08bad4b8a27ce616ce6e03, type: 3}
+      propertyPath: m_Name
+      value: Arbusto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 5751e7bcad08bad4b8a27ce616ce6e03, type: 3}
+      propertyPath: m_Name
+      value: Arbusto
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5751e7bcad08bad4b8a27ce616ce6e03, type: 3}
   m_IsPrefabAsset: 0
