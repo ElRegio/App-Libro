@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: e5f9b741c370110468bd6337219c9170
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arbusto1
+    100002: Arbusto1 1
+    100004: Arbusto1 2
+    100006: Arbusto1 3
+    100008: Arbusto1 4
+    100010: Arbusto1 5
+    100012: Arbusto2
+    100014: Arbusto2 1
+    100016: Arbusto2 2
+    100018: Arbusto2 3
+    100020: Arbusto2 4
+    100022: Arbusto2 5
+    100024: Camaras
+    100026: Caoba
+    100028: Caoba 1
+    100030: Caoba 2
+    100032: Caoba 3
+    100034: Caoba 4
+    100036: Caoba 5
+    100038: Caoba1
+    100040: Caoba1 1
+    100042: Caoba1 2
+    100044: Caoba1 3
+    100046: Caoba1 4
+    100048: Caoba1 5
+    100050: CedroRojo
+    100052: CedroRojo 1
+    100054: CedroRojo 2
+    100056: CedroRojo 3
+    100058: CedroRojo 4
+    100060: CedroRojo 5
+    100062: CedroRojo1
+    100064: CedroRojo1 1
+    100066: CedroRojo1 2
+    100068: CedroRojo1 3
+    100070: HelechoT1
+    100072: HelechoT1 1
+    100074: HelechoT1 2
+    100076: HelechoT1 3
+    100078: HelechoT1 4
+    100080: HelechoT1 5
+    100082: HelechoT10
+    100084: HelechoT10 1
+    100086: HelechoT10 2
+    100088: HelechoT10 3
+    100090: HelechoT10 4
+    100092: HelechoT10 5
+    100094: HelechoT11
+    100096: HelechoT11 1
+    100098: HelechoT11 2
+    100100: HelechoT11 3
+    100102: HelechoT12
+    100104: HelechoT12 1
+    100106: HelechoT12 2
+    100108: HelechoT2
+    100110: HelechoT2 1
+    100112: HelechoT2 2
+    100114: HelechoT2 3
+    100116: HelechoT2 4
+    100118: HelechoT2 5
+    100120: HelechoT3
+    100122: HelechoT3 1
+    100124: HelechoT3 2
+    100126: HelechoT3 3
+    100128: HelechoT3 4
+    100130: HelechoT3 5
+    100132: HelechoT4
+    100134: HelechoT4 1
+    100136: HelechoT4 2
+    100138: HelechoT4 3
+    100140: HelechoT4 4
+    100142: HelechoT4 5
+    100144: HelechoT5
+    100146: HelechoT5 1
+    100148: HelechoT5 2
+    100150: HelechoT5 3
+    100152: HelechoT5 4
+    100154: HelechoT5 5
+    100156: HelechoT6
+    100158: HelechoT6 1
+    100160: HelechoT6 2
+    100162: HelechoT6 3
+    100164: HelechoT6 4
+    100166: HelechoT6 5
+    100168: HelechoT7
+    100170: HelechoT7 1
+    100172: HelechoT7 2
+    100174: HelechoT7 3
+    100176: HelechoT7 4
+    100178: HelechoT7 5
+    100180: HelechoT8
+    100182: HelechoT8 1
+    100184: HelechoT8 2
+    100186: HelechoT8 3
+    100188: HelechoT8 4
+    100190: HelechoT8 5
+    100192: HelechoT9
+    100194: HelechoT9 1
+    100196: HelechoT9 2
+    100198: HelechoT9 3
+    100200: HelechoT9 4
+    100202: HelechoT9 5
+    100204: Isla
+    100206: Isla 1
+    100208: IslaPastizal_Render2:Nube13
+    100210: IslaPastizal_Render2:Nube14
+    100212: IslaPastizal_Render2:Nube2
+    100214: IslaPastizal_Render2:Nube2 1
+    100216: IslaPastizal_Render2:Nube21
+    100218: IslaPastizal_Render2:Nube22
+    100220: IslaPastizal_Render2:Nube3
+    100222: IslaPastizal_Render2:Nube3 1
+    100224: IslaPastizal_Render2:persp1
+    100226: IslaPastizal_Render2:Piedra
+    100228: IslaPastizal_Render2:Piedra1
+    100230: IslaPastizal_Render2:polySurface10
+    100232: IslaPastizal_Render2:polySurface11
+    100234: IslaPastizal_Render2:polySurface12
+    100236: IslaPastizal_Render2:polySurface13
+    100238: IslaPastizal_Render2:polySurface14
+    100240: IslaPastizal_Render2:polySurface15
+    100242: IslaPastizal_Render2:polySurface16
+    100244: IslaPastizal_Render2:polySurface17
+    100246: IslaPastizal_Render2:polySurface4
+    100248: IslaPastizal_Render2:polySurface5
+    100250: IslaPastizal_Render2:polySurface6
+    100252: IslaPastizal_Render2:polySurface7
+    100254: IslaPastizal_Render2:polySurface8
+    100256: IslaPastizal_Render2:polySurface9
+    100258: IslaPastizal_Render2:transform16
+    100260: Jabali
+    100262: LianaT1
+    100264: LianaT1 1
+    100266: LianaT1 2
+    100268: LianaT1 3
+    100270: LianaT1 4
+    100272: LianaT1 5
+    100274: LianaT10
+    100276: LianaT10 1
+    100278: LianaT10 2
+    100280: LianaT10 3
+    100282: LianaT10 4
+    100284: LianaT10 5
+    100286: LianaT11
+    100288: LianaT11 1
+    100290: LianaT2
+    100292: LianaT2 1
+    100294: LianaT2 2
+    100296: LianaT2 3
+    100298: LianaT2 4
+    100300: LianaT2 5
+    100302: LianaT6
+    100304: LianaT6 1
+    100306: LianaT6 2
+    100308: LianaT6 3
+    100310: LianaT6 4
+    100312: LianaT6 5
+    100314: LianaT7
+    100316: LianaT7 1
+    100318: LianaT7 2
+    100320: LianaT7 3
+    100322: LianaT7 4
+    100324: LianaT7 5
+    100326: LianaT8
+    100328: LianaT8 1
+    100330: LianaT8 2
+    100332: LianaT8 3
+    100334: LianaT8 4
+    100336: LianaT8 5
+    100338: LianaT9
+    100340: LianaT9 1
+    100342: LianaT9 2
+    100344: LianaT9 3
+    100346: LianaT9 4
+    100348: LianaT9 5
+    100350: Nubes
+    100352: nurbsCircle1
+    100354: nurbsCircle2
+    100356: nurbsCircle3
+    100358: nurbsCircle4
+    100360: nurbsCircle5
+    100362: nurbsCircle6
+    100364: nutriacuadrosolo:Arbusto1
+    100366: nutriacuadrosolo:Arbusto2
+    100368: nutriacuadrosolo:Caoba
+    100370: nutriacuadrosolo:Caoba1
+    100372: nutriacuadrosolo:CedroRojo
+    100374: nutriacuadrosolo:CedroRojo1
+    100376: nutriacuadrosolo:HelechoT1
+    100378: nutriacuadrosolo:HelechoT10
+    100380: nutriacuadrosolo:HelechoT11
+    100382: nutriacuadrosolo:HelechoT12
+    100384: nutriacuadrosolo:HelechoT2
+    100386: nutriacuadrosolo:HelechoT3
+    100388: nutriacuadrosolo:HelechoT4
+    100390: nutriacuadrosolo:HelechoT5
+    100392: nutriacuadrosolo:HelechoT6
+    100394: nutriacuadrosolo:HelechoT7
+    100396: nutriacuadrosolo:HelechoT8
+    100398: nutriacuadrosolo:HelechoT9
+    100400: nutriacuadrosolo:LianaT1
+    100402: nutriacuadrosolo:LianaT10
+    100404: nutriacuadrosolo:LianaT2
+    100406: nutriacuadrosolo:LianaT6
+    100408: nutriacuadrosolo:LianaT7
+    100410: nutriacuadrosolo:LianaT8
+    100412: nutriacuadrosolo:LianaT9
+    100414: nutriacuadrosolo:Nutria
+    100416: "nutriacuadrosolo:Tama\xF1o"
+    100418: Oso_HormigueroRenderCuadro:Arbusto1
+    100420: Oso_HormigueroRenderCuadro:Arbusto2
+    100422: Oso_HormigueroRenderCuadro:Caoba
+    100424: Oso_HormigueroRenderCuadro:Caoba1
+    100426: Oso_HormigueroRenderCuadro:CedroRojo
+    100428: Oso_HormigueroRenderCuadro:CedroRojo1
+    100430: Oso_HormigueroRenderCuadro:HelechoT1
+    100432: Oso_HormigueroRenderCuadro:HelechoT10
+    100434: Oso_HormigueroRenderCuadro:HelechoT11
+    100436: Oso_HormigueroRenderCuadro:HelechoT2
+    100438: Oso_HormigueroRenderCuadro:HelechoT3
+    100440: Oso_HormigueroRenderCuadro:HelechoT4
+    100442: Oso_HormigueroRenderCuadro:HelechoT5
+    100444: Oso_HormigueroRenderCuadro:HelechoT6
+    100446: Oso_HormigueroRenderCuadro:HelechoT7
+    100448: Oso_HormigueroRenderCuadro:HelechoT8
+    100450: Oso_HormigueroRenderCuadro:HelechoT9
+    100452: Oso_HormigueroRenderCuadro:LianaT1
+    100454: Oso_HormigueroRenderCuadro:LianaT10
+    100456: Oso_HormigueroRenderCuadro:LianaT11
+    100458: Oso_HormigueroRenderCuadro:LianaT2
+    100460: Oso_HormigueroRenderCuadro:LianaT6
+    100462: Oso_HormigueroRenderCuadro:LianaT7
+    100464: Oso_HormigueroRenderCuadro:LianaT8
+    100466: Oso_HormigueroRenderCuadro:LianaT9
+    100468: Oso_HormigueroRenderCuadro:OsoHormiguero
+    100470: "Oso_HormigueroRenderCuadro:Tama\xF1o"
+    100472: osoHormiguero
+    100474: osoHormiguero1
+    100476: pCylinder4
+    100478: Pecari_Render1:Arbusto1
+    100480: Pecari_Render1:Arbusto2
+    100482: Pecari_Render1:back
+    100484: Pecari_Render1:Caoba
+    100486: Pecari_Render1:Caoba1
+    100488: Pecari_Render1:CedroRojo
+    100490: Pecari_Render1:HelechoT1
+    100492: Pecari_Render1:HelechoT10
+    100494: Pecari_Render1:HelechoT2
+    100496: Pecari_Render1:HelechoT3
+    100498: Pecari_Render1:HelechoT4
+    100500: Pecari_Render1:HelechoT5
+    100502: Pecari_Render1:HelechoT6
+    100504: Pecari_Render1:HelechoT7
+    100506: Pecari_Render1:HelechoT8
+    100508: Pecari_Render1:HelechoT9
+    100510: Pecari_Render1:LianaT1
+    100512: Pecari_Render1:LianaT2
+    100514: Pecari_Render1:LianaT6
+    100516: Pecari_Render1:LianaT7
+    100518: Pecari_Render1:LianaT8
+    100520: Pecari_Render1:LianaT9
+    100522: Pecari_Render1:persp1
+    100524: Pecari_Render1:persp2
+    100526: Pecari_Render1:Tronco
+    100528: Pecari_Render:back
+    100530: Pecari_Render:persp1
+    100532: Pecari_Render:persp2
+    100534: //RootNode
+    100536: "Tama\xF1o"
+    100538: "Tama\xF1o 1"
+    100540: "Tama\xF1o 2"
+    100542: "Tama\xF1o 3"
+    100544: Tapir
+    100546: Tapir 1
+    100548: Tapir1
+    100550: Tronco
+    400000: Arbusto1
+    400002: Arbusto1 1
+    400004: Arbusto1 2
+    400006: Arbusto1 3
+    400008: Arbusto1 4
+    400010: Arbusto1 5
+    400012: Arbusto2
+    400014: Arbusto2 1
+    400016: Arbusto2 2
+    400018: Arbusto2 3
+    400020: Arbusto2 4
+    400022: Arbusto2 5
+    400024: Camaras
+    400026: Caoba
+    400028: Caoba 1
+    400030: Caoba 2
+    400032: Caoba 3
+    400034: Caoba 4
+    400036: Caoba 5
+    400038: Caoba1
+    400040: Caoba1 1
+    400042: Caoba1 2
+    400044: Caoba1 3
+    400046: Caoba1 4
+    400048: Caoba1 5
+    400050: CedroRojo
+    400052: CedroRojo 1
+    400054: CedroRojo 2
+    400056: CedroRojo 3
+    400058: CedroRojo 4
+    400060: CedroRojo 5
+    400062: CedroRojo1
+    400064: CedroRojo1 1
+    400066: CedroRojo1 2
+    400068: CedroRojo1 3
+    400070: HelechoT1
+    400072: HelechoT1 1
+    400074: HelechoT1 2
+    400076: HelechoT1 3
+    400078: HelechoT1 4
+    400080: HelechoT1 5
+    400082: HelechoT10
+    400084: HelechoT10 1
+    400086: HelechoT10 2
+    400088: HelechoT10 3
+    400090: HelechoT10 4
+    400092: HelechoT10 5
+    400094: HelechoT11
+    400096: HelechoT11 1
+    400098: HelechoT11 2
+    400100: HelechoT11 3
+    400102: HelechoT12
+    400104: HelechoT12 1
+    400106: HelechoT12 2
+    400108: HelechoT2
+    400110: HelechoT2 1
+    400112: HelechoT2 2
+    400114: HelechoT2 3
+    400116: HelechoT2 4
+    400118: HelechoT2 5
+    400120: HelechoT3
+    400122: HelechoT3 1
+    400124: HelechoT3 2
+    400126: HelechoT3 3
+    400128: HelechoT3 4
+    400130: HelechoT3 5
+    400132: HelechoT4
+    400134: HelechoT4 1
+    400136: HelechoT4 2
+    400138: HelechoT4 3
+    400140: HelechoT4 4
+    400142: HelechoT4 5
+    400144: HelechoT5
+    400146: HelechoT5 1
+    400148: HelechoT5 2
+    400150: HelechoT5 3
+    400152: HelechoT5 4
+    400154: HelechoT5 5
+    400156: HelechoT6
+    400158: HelechoT6 1
+    400160: HelechoT6 2
+    400162: HelechoT6 3
+    400164: HelechoT6 4
+    400166: HelechoT6 5
+    400168: HelechoT7
+    400170: HelechoT7 1
+    400172: HelechoT7 2
+    400174: HelechoT7 3
+    400176: HelechoT7 4
+    400178: HelechoT7 5
+    400180: HelechoT8
+    400182: HelechoT8 1
+    400184: HelechoT8 2
+    400186: HelechoT8 3
+    400188: HelechoT8 4
+    400190: HelechoT8 5
+    400192: HelechoT9
+    400194: HelechoT9 1
+    400196: HelechoT9 2
+    400198: HelechoT9 3
+    400200: HelechoT9 4
+    400202: HelechoT9 5
+    400204: Isla
+    400206: Isla 1
+    400208: IslaPastizal_Render2:Nube13
+    400210: IslaPastizal_Render2:Nube14
+    400212: IslaPastizal_Render2:Nube2
+    400214: IslaPastizal_Render2:Nube2 1
+    400216: IslaPastizal_Render2:Nube21
+    400218: IslaPastizal_Render2:Nube22
+    400220: IslaPastizal_Render2:Nube3
+    400222: IslaPastizal_Render2:Nube3 1
+    400224: IslaPastizal_Render2:persp1
+    400226: IslaPastizal_Render2:Piedra
+    400228: IslaPastizal_Render2:Piedra1
+    400230: IslaPastizal_Render2:polySurface10
+    400232: IslaPastizal_Render2:polySurface11
+    400234: IslaPastizal_Render2:polySurface12
+    400236: IslaPastizal_Render2:polySurface13
+    400238: IslaPastizal_Render2:polySurface14
+    400240: IslaPastizal_Render2:polySurface15
+    400242: IslaPastizal_Render2:polySurface16
+    400244: IslaPastizal_Render2:polySurface17
+    400246: IslaPastizal_Render2:polySurface4
+    400248: IslaPastizal_Render2:polySurface5
+    400250: IslaPastizal_Render2:polySurface6
+    400252: IslaPastizal_Render2:polySurface7
+    400254: IslaPastizal_Render2:polySurface8
+    400256: IslaPastizal_Render2:polySurface9
+    400258: IslaPastizal_Render2:transform16
+    400260: Jabali
+    400262: LianaT1
+    400264: LianaT1 1
+    400266: LianaT1 2
+    400268: LianaT1 3
+    400270: LianaT1 4
+    400272: LianaT1 5
+    400274: LianaT10
+    400276: LianaT10 1
+    400278: LianaT10 2
+    400280: LianaT10 3
+    400282: LianaT10 4
+    400284: LianaT10 5
+    400286: LianaT11
+    400288: LianaT11 1
+    400290: LianaT2
+    400292: LianaT2 1
+    400294: LianaT2 2
+    400296: LianaT2 3
+    400298: LianaT2 4
+    400300: LianaT2 5
+    400302: LianaT6
+    400304: LianaT6 1
+    400306: LianaT6 2
+    400308: LianaT6 3
+    400310: LianaT6 4
+    400312: LianaT6 5
+    400314: LianaT7
+    400316: LianaT7 1
+    400318: LianaT7 2
+    400320: LianaT7 3
+    400322: LianaT7 4
+    400324: LianaT7 5
+    400326: LianaT8
+    400328: LianaT8 1
+    400330: LianaT8 2
+    400332: LianaT8 3
+    400334: LianaT8 4
+    400336: LianaT8 5
+    400338: LianaT9
+    400340: LianaT9 1
+    400342: LianaT9 2
+    400344: LianaT9 3
+    400346: LianaT9 4
+    400348: LianaT9 5
+    400350: Nubes
+    400352: nurbsCircle1
+    400354: nurbsCircle2
+    400356: nurbsCircle3
+    400358: nurbsCircle4
+    400360: nurbsCircle5
+    400362: nurbsCircle6
+    400364: nutriacuadrosolo:Arbusto1
+    400366: nutriacuadrosolo:Arbusto2
+    400368: nutriacuadrosolo:Caoba
+    400370: nutriacuadrosolo:Caoba1
+    400372: nutriacuadrosolo:CedroRojo
+    400374: nutriacuadrosolo:CedroRojo1
+    400376: nutriacuadrosolo:HelechoT1
+    400378: nutriacuadrosolo:HelechoT10
+    400380: nutriacuadrosolo:HelechoT11
+    400382: nutriacuadrosolo:HelechoT12
+    400384: nutriacuadrosolo:HelechoT2
+    400386: nutriacuadrosolo:HelechoT3
+    400388: nutriacuadrosolo:HelechoT4
+    400390: nutriacuadrosolo:HelechoT5
+    400392: nutriacuadrosolo:HelechoT6
+    400394: nutriacuadrosolo:HelechoT7
+    400396: nutriacuadrosolo:HelechoT8
+    400398: nutriacuadrosolo:HelechoT9
+    400400: nutriacuadrosolo:LianaT1
+    400402: nutriacuadrosolo:LianaT10
+    400404: nutriacuadrosolo:LianaT2
+    400406: nutriacuadrosolo:LianaT6
+    400408: nutriacuadrosolo:LianaT7
+    400410: nutriacuadrosolo:LianaT8
+    400412: nutriacuadrosolo:LianaT9
+    400414: nutriacuadrosolo:Nutria
+    400416: "nutriacuadrosolo:Tama\xF1o"
+    400418: Oso_HormigueroRenderCuadro:Arbusto1
+    400420: Oso_HormigueroRenderCuadro:Arbusto2
+    400422: Oso_HormigueroRenderCuadro:Caoba
+    400424: Oso_HormigueroRenderCuadro:Caoba1
+    400426: Oso_HormigueroRenderCuadro:CedroRojo
+    400428: Oso_HormigueroRenderCuadro:CedroRojo1
+    400430: Oso_HormigueroRenderCuadro:HelechoT1
+    400432: Oso_HormigueroRenderCuadro:HelechoT10
+    400434: Oso_HormigueroRenderCuadro:HelechoT11
+    400436: Oso_HormigueroRenderCuadro:HelechoT2
+    400438: Oso_HormigueroRenderCuadro:HelechoT3
+    400440: Oso_HormigueroRenderCuadro:HelechoT4
+    400442: Oso_HormigueroRenderCuadro:HelechoT5
+    400444: Oso_HormigueroRenderCuadro:HelechoT6
+    400446: Oso_HormigueroRenderCuadro:HelechoT7
+    400448: Oso_HormigueroRenderCuadro:HelechoT8
+    400450: Oso_HormigueroRenderCuadro:HelechoT9
+    400452: Oso_HormigueroRenderCuadro:LianaT1
+    400454: Oso_HormigueroRenderCuadro:LianaT10
+    400456: Oso_HormigueroRenderCuadro:LianaT11
+    400458: Oso_HormigueroRenderCuadro:LianaT2
+    400460: Oso_HormigueroRenderCuadro:LianaT6
+    400462: Oso_HormigueroRenderCuadro:LianaT7
+    400464: Oso_HormigueroRenderCuadro:LianaT8
+    400466: Oso_HormigueroRenderCuadro:LianaT9
+    400468: Oso_HormigueroRenderCuadro:OsoHormiguero
+    400470: "Oso_HormigueroRenderCuadro:Tama\xF1o"
+    400472: osoHormiguero
+    400474: osoHormiguero1
+    400476: pCylinder4
+    400478: Pecari_Render1:Arbusto1
+    400480: Pecari_Render1:Arbusto2
+    400482: Pecari_Render1:back
+    400484: Pecari_Render1:Caoba
+    400486: Pecari_Render1:Caoba1
+    400488: Pecari_Render1:CedroRojo
+    400490: Pecari_Render1:HelechoT1
+    400492: Pecari_Render1:HelechoT10
+    400494: Pecari_Render1:HelechoT2
+    400496: Pecari_Render1:HelechoT3
+    400498: Pecari_Render1:HelechoT4
+    400500: Pecari_Render1:HelechoT5
+    400502: Pecari_Render1:HelechoT6
+    400504: Pecari_Render1:HelechoT7
+    400506: Pecari_Render1:HelechoT8
+    400508: Pecari_Render1:HelechoT9
+    400510: Pecari_Render1:LianaT1
+    400512: Pecari_Render1:LianaT2
+    400514: Pecari_Render1:LianaT6
+    400516: Pecari_Render1:LianaT7
+    400518: Pecari_Render1:LianaT8
+    400520: Pecari_Render1:LianaT9
+    400522: Pecari_Render1:persp1
+    400524: Pecari_Render1:persp2
+    400526: Pecari_Render1:Tronco
+    400528: Pecari_Render:back
+    400530: Pecari_Render:persp1
+    400532: Pecari_Render:persp2
+    400534: //RootNode
+    400536: "Tama\xF1o"
+    400538: "Tama\xF1o 1"
+    400540: "Tama\xF1o 2"
+    400542: "Tama\xF1o 3"
+    400544: Tapir
+    400546: Tapir 1
+    400548: Tapir1
+    400550: Tronco
+    2000000: IslaPastizal_Render2:persp1
+    2000002: Pecari_Render1:back
+    2000004: Pecari_Render1:persp1
+    2000006: Pecari_Render1:persp2
+    2000008: Pecari_Render:back
+    2000010: Pecari_Render:persp1
+    2000012: Pecari_Render:persp2
+    2100000: Pecari_Render1_Piedra_mat
+    2100002: VenadoMat
+    2100004: aiStandardSurface5
+    2100006: nubes_mat
+    2100008: Pecari_Render1_CaobaMat
+    2100010: Pecari_Render1_HelechoT1Mat
+    2100012: Pecari_Render1_HelechoT2Mat
+    2100014: Pecari_Render1_CedroMat
+    2100016: Pecari_Render1_LianaT1Mat
+    2100018: Pecari_Render1_LianaT2Mat
+    2100020: Pecari_Render1_Arbusto
+    2100022: Pecari_Render1_LianaT6Mat
+    2100024: Pecari_Render1_TroncoMat
+    2100026: lambert1
+    2100028: Default_Material
+    2100030: TapirMat
+    2100032: nutria
+    2100034: OsoHormigueromat
+    2100036: JabaliMat
+    2300000: Arbusto1
+    2300002: Arbusto1 1
+    2300004: Arbusto1 2
+    2300006: Arbusto1 3
+    2300008: Arbusto1 4
+    2300010: Arbusto1 5
+    2300012: Arbusto2
+    2300014: Arbusto2 1
+    2300016: Arbusto2 2
+    2300018: Arbusto2 3
+    2300020: Arbusto2 4
+    2300022: Arbusto2 5
+    2300024: Caoba
+    2300026: Caoba 1
+    2300028: Caoba 2
+    2300030: Caoba 3
+    2300032: Caoba 4
+    2300034: Caoba 5
+    2300036: Caoba1
+    2300038: Caoba1 1
+    2300040: Caoba1 2
+    2300042: Caoba1 3
+    2300044: Caoba1 4
+    2300046: Caoba1 5
+    2300048: CedroRojo
+    2300050: CedroRojo 1
+    2300052: CedroRojo 2
+    2300054: CedroRojo 3
+    2300056: CedroRojo 4
+    2300058: CedroRojo 5
+    2300060: CedroRojo1
+    2300062: CedroRojo1 1
+    2300064: CedroRojo1 2
+    2300066: CedroRojo1 3
+    2300068: HelechoT1
+    2300070: HelechoT1 1
+    2300072: HelechoT1 2
+    2300074: HelechoT1 3
+    2300076: HelechoT1 4
+    2300078: HelechoT1 5
+    2300080: HelechoT10
+    2300082: HelechoT10 1
+    2300084: HelechoT10 2
+    2300086: HelechoT10 3
+    2300088: HelechoT10 4
+    2300090: HelechoT10 5
+    2300092: HelechoT11
+    2300094: HelechoT11 1
+    2300096: HelechoT11 2
+    2300098: HelechoT11 3
+    2300100: HelechoT12
+    2300102: HelechoT12 1
+    2300104: HelechoT12 2
+    2300106: HelechoT2
+    2300108: HelechoT2 1
+    2300110: HelechoT2 2
+    2300112: HelechoT2 3
+    2300114: HelechoT2 4
+    2300116: HelechoT2 5
+    2300118: HelechoT3
+    2300120: HelechoT3 1
+    2300122: HelechoT3 2
+    2300124: HelechoT3 3
+    2300126: HelechoT3 4
+    2300128: HelechoT3 5
+    2300130: HelechoT4
+    2300132: HelechoT4 1
+    2300134: HelechoT4 2
+    2300136: HelechoT4 3
+    2300138: HelechoT4 4
+    2300140: HelechoT4 5
+    2300142: HelechoT5
+    2300144: HelechoT5 1
+    2300146: HelechoT5 2
+    2300148: HelechoT5 3
+    2300150: HelechoT5 4
+    2300152: HelechoT5 5
+    2300154: HelechoT6
+    2300156: HelechoT6 1
+    2300158: HelechoT6 2
+    2300160: HelechoT6 3
+    2300162: HelechoT6 4
+    2300164: HelechoT6 5
+    2300166: HelechoT7
+    2300168: HelechoT7 1
+    2300170: HelechoT7 2
+    2300172: HelechoT7 3
+    2300174: HelechoT7 4
+    2300176: HelechoT7 5
+    2300178: HelechoT8
+    2300180: HelechoT8 1
+    2300182: HelechoT8 2
+    2300184: HelechoT8 3
+    2300186: HelechoT8 4
+    2300188: HelechoT8 5
+    2300190: HelechoT9
+    2300192: HelechoT9 1
+    2300194: HelechoT9 2
+    2300196: HelechoT9 3
+    2300198: HelechoT9 4
+    2300200: HelechoT9 5
+    2300202: Isla 1
+    2300204: IslaPastizal_Render2:Nube13
+    2300206: IslaPastizal_Render2:Nube14
+    2300208: IslaPastizal_Render2:Nube2
+    2300210: IslaPastizal_Render2:Nube2 1
+    2300212: IslaPastizal_Render2:Nube22
+    2300214: IslaPastizal_Render2:Nube3
+    2300216: IslaPastizal_Render2:Nube3 1
+    2300218: IslaPastizal_Render2:Piedra
+    2300220: IslaPastizal_Render2:Piedra1
+    2300222: IslaPastizal_Render2:polySurface10
+    2300224: IslaPastizal_Render2:polySurface11
+    2300226: IslaPastizal_Render2:polySurface12
+    2300228: IslaPastizal_Render2:polySurface13
+    2300230: IslaPastizal_Render2:polySurface14
+    2300232: IslaPastizal_Render2:polySurface15
+    2300234: IslaPastizal_Render2:polySurface16
+    2300236: IslaPastizal_Render2:polySurface17
+    2300238: IslaPastizal_Render2:polySurface4
+    2300240: IslaPastizal_Render2:polySurface5
+    2300242: IslaPastizal_Render2:polySurface6
+    2300244: IslaPastizal_Render2:polySurface7
+    2300246: IslaPastizal_Render2:polySurface8
+    2300248: IslaPastizal_Render2:polySurface9
+    2300250: Jabali
+    2300252: LianaT1
+    2300254: LianaT1 1
+    2300256: LianaT1 2
+    2300258: LianaT1 3
+    2300260: LianaT1 4
+    2300262: LianaT1 5
+    2300264: LianaT10
+    2300266: LianaT10 1
+    2300268: LianaT10 2
+    2300270: LianaT10 3
+    2300272: LianaT10 4
+    2300274: LianaT10 5
+    2300276: LianaT11
+    2300278: LianaT11 1
+    2300280: LianaT2
+    2300282: LianaT2 1
+    2300284: LianaT2 2
+    2300286: LianaT2 3
+    2300288: LianaT2 4
+    2300290: LianaT2 5
+    2300292: LianaT6
+    2300294: LianaT6 1
+    2300296: LianaT6 2
+    2300298: LianaT6 3
+    2300300: LianaT6 4
+    2300302: LianaT6 5
+    2300304: LianaT7
+    2300306: LianaT7 1
+    2300308: LianaT7 2
+    2300310: LianaT7 3
+    2300312: LianaT7 4
+    2300314: LianaT7 5
+    2300316: LianaT8
+    2300318: LianaT8 1
+    2300320: LianaT8 2
+    2300322: LianaT8 3
+    2300324: LianaT8 4
+    2300326: LianaT8 5
+    2300328: LianaT9
+    2300330: LianaT9 1
+    2300332: LianaT9 2
+    2300334: LianaT9 3
+    2300336: LianaT9 4
+    2300338: LianaT9 5
+    2300340: nutriacuadrosolo:Arbusto1
+    2300342: nutriacuadrosolo:Arbusto2
+    2300344: nutriacuadrosolo:Caoba
+    2300346: nutriacuadrosolo:Caoba1
+    2300348: nutriacuadrosolo:CedroRojo
+    2300350: nutriacuadrosolo:CedroRojo1
+    2300352: nutriacuadrosolo:HelechoT1
+    2300354: nutriacuadrosolo:HelechoT10
+    2300356: nutriacuadrosolo:HelechoT11
+    2300358: nutriacuadrosolo:HelechoT12
+    2300360: nutriacuadrosolo:HelechoT2
+    2300362: nutriacuadrosolo:HelechoT3
+    2300364: nutriacuadrosolo:HelechoT4
+    2300366: nutriacuadrosolo:HelechoT5
+    2300368: nutriacuadrosolo:HelechoT6
+    2300370: nutriacuadrosolo:HelechoT7
+    2300372: nutriacuadrosolo:HelechoT8
+    2300374: nutriacuadrosolo:HelechoT9
+    2300376: nutriacuadrosolo:LianaT1
+    2300378: nutriacuadrosolo:LianaT10
+    2300380: nutriacuadrosolo:LianaT2
+    2300382: nutriacuadrosolo:LianaT6
+    2300384: nutriacuadrosolo:LianaT7
+    2300386: nutriacuadrosolo:LianaT8
+    2300388: nutriacuadrosolo:LianaT9
+    2300390: nutriacuadrosolo:Nutria
+    2300392: "nutriacuadrosolo:Tama\xF1o"
+    2300394: Oso_HormigueroRenderCuadro:Arbusto1
+    2300396: Oso_HormigueroRenderCuadro:Arbusto2
+    2300398: Oso_HormigueroRenderCuadro:Caoba
+    2300400: Oso_HormigueroRenderCuadro:Caoba1
+    2300402: Oso_HormigueroRenderCuadro:CedroRojo
+    2300404: Oso_HormigueroRenderCuadro:CedroRojo1
+    2300406: Oso_HormigueroRenderCuadro:HelechoT1
+    2300408: Oso_HormigueroRenderCuadro:HelechoT10
+    2300410: Oso_HormigueroRenderCuadro:HelechoT11
+    2300412: Oso_HormigueroRenderCuadro:HelechoT2
+    2300414: Oso_HormigueroRenderCuadro:HelechoT3
+    2300416: Oso_HormigueroRenderCuadro:HelechoT4
+    2300418: Oso_HormigueroRenderCuadro:HelechoT5
+    2300420: Oso_HormigueroRenderCuadro:HelechoT6
+    2300422: Oso_HormigueroRenderCuadro:HelechoT7
+    2300424: Oso_HormigueroRenderCuadro:HelechoT8
+    2300426: Oso_HormigueroRenderCuadro:HelechoT9
+    2300428: Oso_HormigueroRenderCuadro:LianaT1
+    2300430: Oso_HormigueroRenderCuadro:LianaT10
+    2300432: Oso_HormigueroRenderCuadro:LianaT11
+    2300434: Oso_HormigueroRenderCuadro:LianaT2
+    2300436: Oso_HormigueroRenderCuadro:LianaT6
+    2300438: Oso_HormigueroRenderCuadro:LianaT7
+    2300440: Oso_HormigueroRenderCuadro:LianaT8
+    2300442: Oso_HormigueroRenderCuadro:LianaT9
+    2300444: Oso_HormigueroRenderCuadro:OsoHormiguero
+    2300446: "Oso_HormigueroRenderCuadro:Tama\xF1o"
+    2300448: pCylinder4
+    2300450: Pecari_Render1:Arbusto1
+    2300452: Pecari_Render1:Arbusto2
+    2300454: Pecari_Render1:Caoba
+    2300456: Pecari_Render1:Caoba1
+    2300458: Pecari_Render1:CedroRojo
+    2300460: Pecari_Render1:HelechoT1
+    2300462: Pecari_Render1:HelechoT10
+    2300464: Pecari_Render1:HelechoT2
+    2300466: Pecari_Render1:HelechoT3
+    2300468: Pecari_Render1:HelechoT4
+    2300470: Pecari_Render1:HelechoT5
+    2300472: Pecari_Render1:HelechoT6
+    2300474: Pecari_Render1:HelechoT7
+    2300476: Pecari_Render1:HelechoT8
+    2300478: Pecari_Render1:HelechoT9
+    2300480: Pecari_Render1:LianaT1
+    2300482: Pecari_Render1:LianaT2
+    2300484: Pecari_Render1:LianaT6
+    2300486: Pecari_Render1:LianaT7
+    2300488: Pecari_Render1:LianaT8
+    2300490: Pecari_Render1:LianaT9
+    2300492: Pecari_Render1:Tronco
+    2300494: "Tama\xF1o"
+    2300496: "Tama\xF1o 1"
+    2300498: "Tama\xF1o 2"
+    2300500: "Tama\xF1o 3"
+    2300502: Tapir 1
+    2300504: Tronco
+    3300000: Arbusto1
+    3300002: Arbusto1 1
+    3300004: Arbusto1 2
+    3300006: Arbusto1 3
+    3300008: Arbusto1 4
+    3300010: Arbusto1 5
+    3300012: Arbusto2
+    3300014: Arbusto2 1
+    3300016: Arbusto2 2
+    3300018: Arbusto2 3
+    3300020: Arbusto2 4
+    3300022: Arbusto2 5
+    3300024: Caoba
+    3300026: Caoba 1
+    3300028: Caoba 2
+    3300030: Caoba 3
+    3300032: Caoba 4
+    3300034: Caoba 5
+    3300036: Caoba1
+    3300038: Caoba1 1
+    3300040: Caoba1 2
+    3300042: Caoba1 3
+    3300044: Caoba1 4
+    3300046: Caoba1 5
+    3300048: CedroRojo
+    3300050: CedroRojo 1
+    3300052: CedroRojo 2
+    3300054: CedroRojo 3
+    3300056: CedroRojo 4
+    3300058: CedroRojo 5
+    3300060: CedroRojo1
+    3300062: CedroRojo1 1
+    3300064: CedroRojo1 2
+    3300066: CedroRojo1 3
+    3300068: HelechoT1
+    3300070: HelechoT1 1
+    3300072: HelechoT1 2
+    3300074: HelechoT1 3
+    3300076: HelechoT1 4
+    3300078: HelechoT1 5
+    3300080: HelechoT10
+    3300082: HelechoT10 1
+    3300084: HelechoT10 2
+    3300086: HelechoT10 3
+    3300088: HelechoT10 4
+    3300090: HelechoT10 5
+    3300092: HelechoT11
+    3300094: HelechoT11 1
+    3300096: HelechoT11 2
+    3300098: HelechoT11 3
+    3300100: HelechoT12
+    3300102: HelechoT12 1
+    3300104: HelechoT12 2
+    3300106: HelechoT2
+    3300108: HelechoT2 1
+    3300110: HelechoT2 2
+    3300112: HelechoT2 3
+    3300114: HelechoT2 4
+    3300116: HelechoT2 5
+    3300118: HelechoT3
+    3300120: HelechoT3 1
+    3300122: HelechoT3 2
+    3300124: HelechoT3 3
+    3300126: HelechoT3 4
+    3300128: HelechoT3 5
+    3300130: HelechoT4
+    3300132: HelechoT4 1
+    3300134: HelechoT4 2
+    3300136: HelechoT4 3
+    3300138: HelechoT4 4
+    3300140: HelechoT4 5
+    3300142: HelechoT5
+    3300144: HelechoT5 1
+    3300146: HelechoT5 2
+    3300148: HelechoT5 3
+    3300150: HelechoT5 4
+    3300152: HelechoT5 5
+    3300154: HelechoT6
+    3300156: HelechoT6 1
+    3300158: HelechoT6 2
+    3300160: HelechoT6 3
+    3300162: HelechoT6 4
+    3300164: HelechoT6 5
+    3300166: HelechoT7
+    3300168: HelechoT7 1
+    3300170: HelechoT7 2
+    3300172: HelechoT7 3
+    3300174: HelechoT7 4
+    3300176: HelechoT7 5
+    3300178: HelechoT8
+    3300180: HelechoT8 1
+    3300182: HelechoT8 2
+    3300184: HelechoT8 3
+    3300186: HelechoT8 4
+    3300188: HelechoT8 5
+    3300190: HelechoT9
+    3300192: HelechoT9 1
+    3300194: HelechoT9 2
+    3300196: HelechoT9 3
+    3300198: HelechoT9 4
+    3300200: HelechoT9 5
+    3300202: Isla 1
+    3300204: IslaPastizal_Render2:Nube13
+    3300206: IslaPastizal_Render2:Nube14
+    3300208: IslaPastizal_Render2:Nube2
+    3300210: IslaPastizal_Render2:Nube2 1
+    3300212: IslaPastizal_Render2:Nube22
+    3300214: IslaPastizal_Render2:Nube3
+    3300216: IslaPastizal_Render2:Nube3 1
+    3300218: IslaPastizal_Render2:Piedra
+    3300220: IslaPastizal_Render2:Piedra1
+    3300222: IslaPastizal_Render2:polySurface10
+    3300224: IslaPastizal_Render2:polySurface11
+    3300226: IslaPastizal_Render2:polySurface12
+    3300228: IslaPastizal_Render2:polySurface13
+    3300230: IslaPastizal_Render2:polySurface14
+    3300232: IslaPastizal_Render2:polySurface15
+    3300234: IslaPastizal_Render2:polySurface16
+    3300236: IslaPastizal_Render2:polySurface17
+    3300238: IslaPastizal_Render2:polySurface4
+    3300240: IslaPastizal_Render2:polySurface5
+    3300242: IslaPastizal_Render2:polySurface6
+    3300244: IslaPastizal_Render2:polySurface7
+    3300246: IslaPastizal_Render2:polySurface8
+    3300248: IslaPastizal_Render2:polySurface9
+    3300250: Jabali
+    3300252: LianaT1
+    3300254: LianaT1 1
+    3300256: LianaT1 2
+    3300258: LianaT1 3
+    3300260: LianaT1 4
+    3300262: LianaT1 5
+    3300264: LianaT10
+    3300266: LianaT10 1
+    3300268: LianaT10 2
+    3300270: LianaT10 3
+    3300272: LianaT10 4
+    3300274: LianaT10 5
+    3300276: LianaT11
+    3300278: LianaT11 1
+    3300280: LianaT2
+    3300282: LianaT2 1
+    3300284: LianaT2 2
+    3300286: LianaT2 3
+    3300288: LianaT2 4
+    3300290: LianaT2 5
+    3300292: LianaT6
+    3300294: LianaT6 1
+    3300296: LianaT6 2
+    3300298: LianaT6 3
+    3300300: LianaT6 4
+    3300302: LianaT6 5
+    3300304: LianaT7
+    3300306: LianaT7 1
+    3300308: LianaT7 2
+    3300310: LianaT7 3
+    3300312: LianaT7 4
+    3300314: LianaT7 5
+    3300316: LianaT8
+    3300318: LianaT8 1
+    3300320: LianaT8 2
+    3300322: LianaT8 3
+    3300324: LianaT8 4
+    3300326: LianaT8 5
+    3300328: LianaT9
+    3300330: LianaT9 1
+    3300332: LianaT9 2
+    3300334: LianaT9 3
+    3300336: LianaT9 4
+    3300338: LianaT9 5
+    3300340: nutriacuadrosolo:Arbusto1
+    3300342: nutriacuadrosolo:Arbusto2
+    3300344: nutriacuadrosolo:Caoba
+    3300346: nutriacuadrosolo:Caoba1
+    3300348: nutriacuadrosolo:CedroRojo
+    3300350: nutriacuadrosolo:CedroRojo1
+    3300352: nutriacuadrosolo:HelechoT1
+    3300354: nutriacuadrosolo:HelechoT10
+    3300356: nutriacuadrosolo:HelechoT11
+    3300358: nutriacuadrosolo:HelechoT12
+    3300360: nutriacuadrosolo:HelechoT2
+    3300362: nutriacuadrosolo:HelechoT3
+    3300364: nutriacuadrosolo:HelechoT4
+    3300366: nutriacuadrosolo:HelechoT5
+    3300368: nutriacuadrosolo:HelechoT6
+    3300370: nutriacuadrosolo:HelechoT7
+    3300372: nutriacuadrosolo:HelechoT8
+    3300374: nutriacuadrosolo:HelechoT9
+    3300376: nutriacuadrosolo:LianaT1
+    3300378: nutriacuadrosolo:LianaT10
+    3300380: nutriacuadrosolo:LianaT2
+    3300382: nutriacuadrosolo:LianaT6
+    3300384: nutriacuadrosolo:LianaT7
+    3300386: nutriacuadrosolo:LianaT8
+    3300388: nutriacuadrosolo:LianaT9
+    3300390: nutriacuadrosolo:Nutria
+    3300392: "nutriacuadrosolo:Tama\xF1o"
+    3300394: Oso_HormigueroRenderCuadro:Arbusto1
+    3300396: Oso_HormigueroRenderCuadro:Arbusto2
+    3300398: Oso_HormigueroRenderCuadro:Caoba
+    3300400: Oso_HormigueroRenderCuadro:Caoba1
+    3300402: Oso_HormigueroRenderCuadro:CedroRojo
+    3300404: Oso_HormigueroRenderCuadro:CedroRojo1
+    3300406: Oso_HormigueroRenderCuadro:HelechoT1
+    3300408: Oso_HormigueroRenderCuadro:HelechoT10
+    3300410: Oso_HormigueroRenderCuadro:HelechoT11
+    3300412: Oso_HormigueroRenderCuadro:HelechoT2
+    3300414: Oso_HormigueroRenderCuadro:HelechoT3
+    3300416: Oso_HormigueroRenderCuadro:HelechoT4
+    3300418: Oso_HormigueroRenderCuadro:HelechoT5
+    3300420: Oso_HormigueroRenderCuadro:HelechoT6
+    3300422: Oso_HormigueroRenderCuadro:HelechoT7
+    3300424: Oso_HormigueroRenderCuadro:HelechoT8
+    3300426: Oso_HormigueroRenderCuadro:HelechoT9
+    3300428: Oso_HormigueroRenderCuadro:LianaT1
+    3300430: Oso_HormigueroRenderCuadro:LianaT10
+    3300432: Oso_HormigueroRenderCuadro:LianaT11
+    3300434: Oso_HormigueroRenderCuadro:LianaT2
+    3300436: Oso_HormigueroRenderCuadro:LianaT6
+    3300438: Oso_HormigueroRenderCuadro:LianaT7
+    3300440: Oso_HormigueroRenderCuadro:LianaT8
+    3300442: Oso_HormigueroRenderCuadro:LianaT9
+    3300444: Oso_HormigueroRenderCuadro:OsoHormiguero
+    3300446: "Oso_HormigueroRenderCuadro:Tama\xF1o"
+    3300448: pCylinder4
+    3300450: Pecari_Render1:Arbusto1
+    3300452: Pecari_Render1:Arbusto2
+    3300454: Pecari_Render1:Caoba
+    3300456: Pecari_Render1:Caoba1
+    3300458: Pecari_Render1:CedroRojo
+    3300460: Pecari_Render1:HelechoT1
+    3300462: Pecari_Render1:HelechoT10
+    3300464: Pecari_Render1:HelechoT2
+    3300466: Pecari_Render1:HelechoT3
+    3300468: Pecari_Render1:HelechoT4
+    3300470: Pecari_Render1:HelechoT5
+    3300472: Pecari_Render1:HelechoT6
+    3300474: Pecari_Render1:HelechoT7
+    3300476: Pecari_Render1:HelechoT8
+    3300478: Pecari_Render1:HelechoT9
+    3300480: Pecari_Render1:LianaT1
+    3300482: Pecari_Render1:LianaT2
+    3300484: Pecari_Render1:LianaT6
+    3300486: Pecari_Render1:LianaT7
+    3300488: Pecari_Render1:LianaT8
+    3300490: Pecari_Render1:LianaT9
+    3300492: Pecari_Render1:Tronco
+    3300494: "Tama\xF1o"
+    3300496: "Tama\xF1o 1"
+    3300498: "Tama\xF1o 2"
+    3300500: "Tama\xF1o 3"
+    3300502: Tapir 1
+    3300504: Tronco
+    4300000: IslaPastizal_Render2:Piedra
+    4300002: IslaPastizal_Render2:Piedra1
+    4300004: pCylinder4
+    4300006: Isla
+    4300008: IslaPastizal_Render2:Nube13
+    4300010: IslaPastizal_Render2:Nube3
+    4300012: IslaPastizal_Render2:Nube2
+    4300014: IslaPastizal_Render2:Nube2
+    4300016: IslaPastizal_Render2:Nube3
+    4300018: IslaPastizal_Render2:Nube14
+    4300020: IslaPastizal_Render2:polySurface4
+    4300022: IslaPastizal_Render2:polySurface5
+    4300024: IslaPastizal_Render2:polySurface6
+    4300026: IslaPastizal_Render2:polySurface7
+    4300028: IslaPastizal_Render2:polySurface8
+    4300030: IslaPastizal_Render2:polySurface9
+    4300032: IslaPastizal_Render2:polySurface10
+    4300034: IslaPastizal_Render2:polySurface11
+    4300036: IslaPastizal_Render2:polySurface12
+    4300038: IslaPastizal_Render2:polySurface13
+    4300040: IslaPastizal_Render2:polySurface14
+    4300042: IslaPastizal_Render2:polySurface15
+    4300044: IslaPastizal_Render2:polySurface16
+    4300046: IslaPastizal_Render2:polySurface17
+    4300048: IslaPastizal_Render2:Nube22
+    4300050: Pecari_Render1:Caoba1
+    4300052: Pecari_Render1:HelechoT8
+    4300054: Pecari_Render1:HelechoT1
+    4300056: Pecari_Render1:HelechoT2
+    4300058: Pecari_Render1:CedroRojo
+    4300060: Pecari_Render1:HelechoT10
+    4300062: Pecari_Render1:HelechoT9
+    4300064: Pecari_Render1:LianaT7
+    4300066: Pecari_Render1:LianaT9
+    4300068: Pecari_Render1:LianaT8
+    4300070: Pecari_Render1:Arbusto2
+    4300072: Pecari_Render1:LianaT6
+    4300074: Pecari_Render1:LianaT1
+    4300076: Pecari_Render1:LianaT2
+    4300078: Pecari_Render1:HelechoT3
+    4300080: Pecari_Render1:HelechoT7
+    4300082: Pecari_Render1:Tronco
+    4300084: Pecari_Render1:HelechoT4
+    4300086: Pecari_Render1:HelechoT6
+    4300088: Pecari_Render1:Arbusto1
+    4300090: Pecari_Render1:HelechoT5
+    4300092: Pecari_Render1:Caoba
+    4300094: "Tama\xF1o"
+    4300096: Arbusto1
+    4300098: Caoba
+    4300100: CedroRojo
+    4300102: HelechoT1
+    4300104: HelechoT2
+    4300106: LianaT1
+    4300108: LianaT2
+    4300110: LianaT6
+    4300112: LianaT7
+    4300114: LianaT8
+    4300116: LianaT9
+    4300118: Caoba1
+    4300120: HelechoT3
+    4300122: HelechoT4
+    4300124: HelechoT5
+    4300126: HelechoT6
+    4300128: HelechoT7
+    4300130: Arbusto2
+    4300132: HelechoT8
+    4300134: HelechoT9
+    4300136: HelechoT10
+    4300138: LianaT10
+    4300140: HelechoT11
+    4300142: CedroRojo1
+    4300144: LianaT11
+    4300146: HelechoT12
+    4300148: Arbusto1
+    4300150: Caoba
+    4300152: CedroRojo
+    4300154: HelechoT1
+    4300156: HelechoT2
+    4300158: LianaT1
+    4300160: LianaT2
+    4300162: LianaT6
+    4300164: LianaT7
+    4300166: LianaT8
+    4300168: LianaT9
+    4300170: Tronco
+    4300172: Caoba1
+    4300174: HelechoT3
+    4300176: HelechoT4
+    4300178: HelechoT5
+    4300180: HelechoT6
+    4300182: HelechoT7
+    4300184: Arbusto2
+    4300186: HelechoT8
+    4300188: HelechoT9
+    4300190: HelechoT10
+    4300192: Tapir
+    4300194: LianaT10
+    4300196: "Tama\xF1o"
+    4300198: Arbusto1
+    4300200: Caoba
+    4300202: CedroRojo
+    4300204: HelechoT1
+    4300206: HelechoT2
+    4300208: LianaT1
+    4300210: LianaT2
+    4300212: LianaT6
+    4300214: LianaT7
+    4300216: LianaT8
+    4300218: LianaT9
+    4300220: Caoba1
+    4300222: HelechoT3
+    4300224: HelechoT4
+    4300226: HelechoT5
+    4300228: HelechoT6
+    4300230: HelechoT7
+    4300232: Arbusto2
+    4300234: HelechoT8
+    4300236: HelechoT9
+    4300238: HelechoT10
+    4300240: LianaT10
+    4300242: HelechoT11
+    4300244: CedroRojo1
+    4300246: HelechoT12
+    4300248: "nutriacuadrosolo:Tama\xF1o"
+    4300250: nutriacuadrosolo:Arbusto1
+    4300252: nutriacuadrosolo:Caoba
+    4300254: nutriacuadrosolo:CedroRojo
+    4300256: nutriacuadrosolo:HelechoT1
+    4300258: nutriacuadrosolo:HelechoT2
+    4300260: nutriacuadrosolo:LianaT1
+    4300262: nutriacuadrosolo:LianaT2
+    4300264: nutriacuadrosolo:LianaT6
+    4300266: nutriacuadrosolo:LianaT7
+    4300268: nutriacuadrosolo:LianaT8
+    4300270: nutriacuadrosolo:LianaT9
+    4300272: nutriacuadrosolo:Caoba1
+    4300274: nutriacuadrosolo:HelechoT3
+    4300276: nutriacuadrosolo:HelechoT4
+    4300278: nutriacuadrosolo:HelechoT5
+    4300280: nutriacuadrosolo:HelechoT6
+    4300282: nutriacuadrosolo:HelechoT7
+    4300284: nutriacuadrosolo:Arbusto2
+    4300286: nutriacuadrosolo:HelechoT8
+    4300288: nutriacuadrosolo:HelechoT9
+    4300290: nutriacuadrosolo:HelechoT10
+    4300292: nutriacuadrosolo:LianaT10
+    4300294: nutriacuadrosolo:HelechoT11
+    4300296: nutriacuadrosolo:CedroRojo1
+    4300298: nutriacuadrosolo:Nutria
+    4300300: nutriacuadrosolo:HelechoT12
+    4300302: "Oso_HormigueroRenderCuadro:Tama\xF1o"
+    4300304: Oso_HormigueroRenderCuadro:Arbusto1
+    4300306: Oso_HormigueroRenderCuadro:Caoba
+    4300308: Oso_HormigueroRenderCuadro:CedroRojo
+    4300310: Oso_HormigueroRenderCuadro:HelechoT1
+    4300312: Oso_HormigueroRenderCuadro:HelechoT2
+    4300314: Oso_HormigueroRenderCuadro:LianaT1
+    4300316: Oso_HormigueroRenderCuadro:LianaT2
+    4300318: Oso_HormigueroRenderCuadro:LianaT6
+    4300320: Oso_HormigueroRenderCuadro:LianaT7
+    4300322: Oso_HormigueroRenderCuadro:LianaT8
+    4300324: Oso_HormigueroRenderCuadro:LianaT9
+    4300326: Oso_HormigueroRenderCuadro:Caoba1
+    4300328: Oso_HormigueroRenderCuadro:HelechoT3
+    4300330: Oso_HormigueroRenderCuadro:HelechoT4
+    4300332: Oso_HormigueroRenderCuadro:HelechoT5
+    4300334: Oso_HormigueroRenderCuadro:HelechoT6
+    4300336: Oso_HormigueroRenderCuadro:HelechoT7
+    4300338: Oso_HormigueroRenderCuadro:Arbusto2
+    4300340: Oso_HormigueroRenderCuadro:HelechoT8
+    4300342: Oso_HormigueroRenderCuadro:HelechoT9
+    4300344: Oso_HormigueroRenderCuadro:HelechoT10
+    4300346: Oso_HormigueroRenderCuadro:LianaT10
+    4300348: Oso_HormigueroRenderCuadro:OsoHormiguero
+    4300350: Oso_HormigueroRenderCuadro:HelechoT11
+    4300352: Oso_HormigueroRenderCuadro:CedroRojo1
+    4300354: Oso_HormigueroRenderCuadro:LianaT11
+    4300356: "Tama\xF1o"
+    4300358: Arbusto1
+    4300360: Caoba
+    4300362: CedroRojo
+    4300364: HelechoT1
+    4300366: HelechoT2
+    4300368: LianaT1
+    4300370: LianaT2
+    4300372: LianaT6
+    4300374: LianaT7
+    4300376: LianaT8
+    4300378: LianaT9
+    4300380: Caoba1
+    4300382: HelechoT3
+    4300384: HelechoT4
+    4300386: HelechoT5
+    4300388: HelechoT6
+    4300390: HelechoT7
+    4300392: Arbusto2
+    4300394: HelechoT8
+    4300396: HelechoT9
+    4300398: HelechoT10
+    4300400: LianaT10
+    4300402: HelechoT11
+    4300404: CedroRojo1
+    4300406: HelechoT12
+    4300408: Arbusto1
+    4300410: Caoba
+    4300412: CedroRojo
+    4300414: HelechoT1
+    4300416: HelechoT2
+    4300418: LianaT1
+    4300420: LianaT2
+    4300422: LianaT6
+    4300424: LianaT7
+    4300426: LianaT8
+    4300428: LianaT9
+    4300430: Caoba1
+    4300432: HelechoT3
+    4300434: HelechoT4
+    4300436: HelechoT5
+    4300438: HelechoT6
+    4300440: HelechoT7
+    4300442: Arbusto2
+    4300444: HelechoT8
+    4300446: HelechoT9
+    4300448: HelechoT10
+    4300450: LianaT10
+    4300452: "Tama\xF1o"
+    4300454: Arbusto1
+    4300456: Caoba
+    4300458: CedroRojo
+    4300460: HelechoT1
+    4300462: HelechoT2
+    4300464: LianaT1
+    4300466: LianaT2
+    4300468: LianaT6
+    4300470: LianaT7
+    4300472: LianaT8
+    4300474: LianaT9
+    4300476: Caoba1
+    4300478: HelechoT3
+    4300480: HelechoT4
+    4300482: HelechoT5
+    4300484: HelechoT6
+    4300486: HelechoT7
+    4300488: Arbusto2
+    4300490: HelechoT8
+    4300492: HelechoT9
+    4300494: HelechoT10
+    4300496: LianaT10
+    4300498: HelechoT11
+    4300500: CedroRojo1
+    4300502: LianaT11
+    4300504: Jabali
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

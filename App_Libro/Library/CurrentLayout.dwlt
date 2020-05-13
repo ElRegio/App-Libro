@@ -578,19 +578,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes/Matorrales
   m_ViewMode: 1
   m_StartGridSize: 87
   m_LastFolders:
-  - Assets
+  - Assets/Scenes/Matorrales
   m_LastFoldersGridSize: 87
   m_LastProjectPath: C:\Users\SPARTAN PC\Documents\GitHub\App-Libro\App_Libro
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 2e2d0000
-    m_LastClickedID: 11566
+    scrollPos: {x: 0, y: 1767}
+    m_SelectedIDs: ce2e0000
+    m_LastClickedID: 11982
     m_ExpandedIDs: 000000002e2d00000a2f0000e22f00008e3000002c310000ce3100004c32000006340000b43400000835000014350000783600002c380000da3b0000aa3d0000b43d00004c3e0000fe4400008045000086450000f0470000164e0000184e00001a4e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -646,7 +646,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000243400008e2e0000762e0000863a0000e63a00000c3c00002c0bfbff4e32000000420000042f0000000000003e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -735,9 +735,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e4b0000
-    m_LastClickedID: 19358
-    m_ExpandedIDs: 0cfbffff0efbffff000000000a4b0000
+    m_SelectedIDs: ce360000
+    m_LastClickedID: 0
+    m_ExpandedIDs: eac5fcff64d0fcff80d4fcff6ed6fcff0cd8fcff9ed9fcff20ddfcff82dffcffc8e4fcff74e6fcff7ee7fcff80e8fcffd6e9fcffa0eefcffa2f0fcff0efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -823,7 +823,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.1289085, y: 0.025903068, z: -0.0033743607, w: 0.9913263}
     speed: 2
-    m_Value: {x: 0.12890673, y: 0.025902713, z: -0.0033743144, w: 0.9913127}
+    m_Value: {x: -0.1289085, y: -0.025903068, z: 0.003374361, w: -0.99132633}
   m_Size:
     m_Target: 11.915319
     speed: 2
