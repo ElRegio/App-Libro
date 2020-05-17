@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Zorrita" size="10.000000 7.727273" />
+    <ImageTarget name="Pecari" size="10.000000 7.727273" />
+    <ImageTarget name="Liebre" size="10.000000 7.727273" />
+    <ImageTarget name="Coyote" size="10.000000 7.727273" />
+    <ImageTarget name="Borrego" size="10.000000 7.727273" />
     <ImageTarget name="Tlalcoyote" size="10.000000 7.727273" />
     <ImageTarget name="Perrito" size="10.000000 7.727273" />
     <ImageTarget name="Conejo" size="10.000000 7.727273" />

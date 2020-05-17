@@ -62,7 +62,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Tapir.unity
     guid: 90a6c27839051dc4b8276ae60546645b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
     guid: de4a7cdb51917bc43a2ecd97e0537b8d
+  - enabled: 1
+    path: Assets/Scenes/Matorrales/Cuadro_Borrego.unity
+    guid: a4ff6c8544647b24785292f8f0772fa7
   m_configObjects: {}

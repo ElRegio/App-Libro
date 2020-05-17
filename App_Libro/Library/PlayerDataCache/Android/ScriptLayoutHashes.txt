@@ -2,7 +2,7 @@ Android
 PlayerPath?
 C:/Users/Gerardo/Desktop/apk/Animalejos.apk
 SceneListBegin?
-Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
+Assets/Scenes/Matorrales/Cuadro_Borrego.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -335,11 +335,14 @@ e7243432dd281e72011751efc287823c Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5b83580a22df4ed5e756000935aa4092 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectDestructor
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Water.GerstnerDisplace
 63b1d9ebe2d595f39b6b7350000aa0e6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.Explosive
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoHormigueroInfo
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnVenadoTemazateInfo
 5b5ad732d2d32a997181b009aa65cfb0 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Water.WaterTile
 2f9af06a78208a67db480e9bfed4a076 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnTapirInfo
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:LPWAsset.LPWReflection
 182e416670915c50a548c38c642db0d8 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
@@ -413,6 +416,4 @@ c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoHormigueroInfo
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnTapirInfo
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnVenadoTemazateInfo
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnBorregoInfo
