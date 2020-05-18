@@ -8,9 +8,9 @@ public class BtnBorregoInfo : MonoBehaviour
     string btnName;
     int Conteo;
     GameObject DatoBorrego;
-    GameObject DatoAlamo;
-    GameObject DatoSicomoro;
-    GameObject DatoMaguey;
+    GameObject DatoCactus;
+    GameObject DatoCoryphantha;
+    GameObject DatoIzote;
     GameObject DatoBorrego2;
     GameObject DatoBorrego3;
 
@@ -27,14 +27,14 @@ public class BtnBorregoInfo : MonoBehaviour
         DatoBorrego3 = GameObject.Find("BorregoDato3");
         DatoBorrego3.SetActive(false);
 
-        DatoAlamo = GameObject.Find("AlamoDato");
-        DatoAlamo.SetActive(false);
+        DatoCactus = GameObject.Find("CactusDato");
+        DatoCactus.SetActive(false);
 
-        DatoSicomoro = GameObject.Find("SicomoroDato");
-        DatoSicomoro.SetActive(false);
+        DatoCoryphantha = GameObject.Find("CoryphanthaDato");
+        DatoCoryphantha.SetActive(false);
 
-        DatoMaguey = GameObject.Find("MagueyDato");
-        DatoMaguey.SetActive(false);
+        DatoIzote = GameObject.Find("IzoteDato");
+        DatoIzote.SetActive(false);
     }
 
     public void Next()
@@ -52,9 +52,9 @@ public class BtnBorregoInfo : MonoBehaviour
         DatoBorrego.SetActive(false);
         DatoBorrego2.SetActive(false);
         DatoBorrego3.SetActive(false);
-        DatoAlamo.SetActive(false);
-        DatoSicomoro.SetActive(false);
-        DatoMaguey.SetActive(false);
+        DatoCactus.SetActive(false);
+        DatoCoryphantha.SetActive(false);
+        DatoIzote.SetActive(false);
 
     }
     // Update is called once per frame
@@ -74,36 +74,36 @@ public class BtnBorregoInfo : MonoBehaviour
                 {
                     case "Borrego":
                         DatoBorrego.SetActive(true);
-                        DatoAlamo.SetActive(false);
-                        DatoSicomoro.SetActive(false);
-                        DatoMaguey.SetActive(false);
+                        DatoCactus.SetActive(false);
+                        DatoCoryphantha.SetActive(false);
+                        DatoIzote.SetActive(false);
                         DatoBorrego2.SetActive(false);
                         DatoBorrego3.SetActive(false);
                         break;
 
                     case "Alamo":
-                        DatoAlamo.SetActive(true);
+                        DatoCactus.SetActive(true);
                         DatoBorrego.SetActive(false);
-                        DatoSicomoro.SetActive(false);
-                        DatoMaguey.SetActive(false);
+                        DatoCoryphantha.SetActive(false);
+                        DatoIzote.SetActive(false);
                         DatoBorrego2.SetActive(false);
                         DatoBorrego3.SetActive(false);
                         break;
 
                     case "Sicomoro":
-                        DatoSicomoro.SetActive(true);
+                        DatoCoryphantha.SetActive(true);
                         DatoBorrego.SetActive(false);
-                        DatoMaguey.SetActive(false);
-                        DatoAlamo.SetActive(false);
+                        DatoIzote.SetActive(false);
+                        DatoCactus.SetActive(false);
                         DatoBorrego2.SetActive(false);
                         DatoBorrego3.SetActive(false);
                         break;
 
                     case "Maguey":
-                        DatoMaguey.SetActive(true);
+                        DatoIzote.SetActive(true);
                         DatoBorrego.SetActive(false);
-                        DatoAlamo.SetActive(false);
-                        DatoSicomoro.SetActive(false);
+                        DatoCactus.SetActive(false);
+                        DatoCoryphantha.SetActive(false);
                         DatoBorrego2.SetActive(false);
                         DatoBorrego3.SetActive(false);
                         break;
