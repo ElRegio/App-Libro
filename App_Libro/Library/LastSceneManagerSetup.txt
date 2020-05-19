@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
+- path: Assets/Scenes/Pastizales/Cuadro_Berrendo.unity
   isLoaded: 1
   isActive: 1

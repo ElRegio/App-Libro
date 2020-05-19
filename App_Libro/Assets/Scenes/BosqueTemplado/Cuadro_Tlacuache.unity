@@ -343,6 +343,74 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a9118667034c13e4ebfce7722a1d4e62, type: 2}
+    - target: {fileID: 400064, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400062, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100062, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Tlacuache
+      objectReference: {fileID: 0}
+    - target: {fileID: 100066, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100068, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100070, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100072, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100074, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100076, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: persp
+      objectReference: {fileID: 0}
+    - target: {fileID: 100080, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Piedra
+      objectReference: {fileID: 0}
+    - target: {fileID: 100082, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: Piedra
+      objectReference: {fileID: 0}
+    - target: {fileID: 100084, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
+    - target: {fileID: 100086, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
+    - target: {fileID: 100088, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
+    - target: {fileID: 100090, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
+    - target: {fileID: 100092, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
+    - target: {fileID: 100094, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
+      propertyPath: m_Name
+      value: pino
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05e031546f473c74cb083295f5a0bbef, type: 3}
   m_IsPrefabAsset: 0

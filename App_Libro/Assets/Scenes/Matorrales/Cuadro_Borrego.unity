@@ -676,6 +676,34 @@ Prefab:
       propertyPath: m_Name
       value: Coryphantha
       objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Cactus
+      objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100024, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100026, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100028, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100030, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100034, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
+      propertyPath: m_Name
+      value: Piedra
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271745c721169ea489e5d7b8b1563767, type: 3}
   m_IsPrefabAsset: 0
