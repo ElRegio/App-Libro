@@ -144,7 +144,7 @@ Transform:
   m_LocalScale: {x: 21.874388, y: 21.874388, z: 21.874388}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &19631304
 MeshRenderer:
@@ -451,7 +451,7 @@ GameObject:
   - component: {fileID: 52963441}
   - component: {fileID: 52963440}
   m_Layer: 0
-  m_Name: Terreno
+  m_Name: CuadroSelvaHumeda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -465,11 +465,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 52963438}
   m_LocalRotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
-  m_LocalPosition: {x: -1.366473, y: 0.09122577, z: 1.121527}
-  m_LocalScale: {x: 1, y: 0.8307235, z: 1}
+  m_LocalPosition: {x: -1.3664733, y: 0.09122576, z: 1.121527}
+  m_LocalScale: {x: 1, y: 0.83072364, z: 1}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 26
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &52963440
 MeshRenderer:
@@ -546,7 +546,7 @@ Transform:
   m_LocalScale: {x: 8.805338, y: 127.56989, z: 8.805338}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 18
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &112048499
 MeshRenderer:
@@ -637,7 +637,7 @@ Transform:
   m_LocalScale: {x: 31.626204, y: 31.626204, z: 31.626204}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 9
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &196815688
 MeshRenderer:
@@ -728,7 +728,7 @@ Transform:
   m_LocalScale: {x: 9.857962, y: 142.8201, z: 9.857962}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 20
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &231346853
 MeshRenderer:
@@ -948,7 +948,7 @@ Transform:
   m_LocalScale: {x: 31.626204, y: 31.626204, z: 31.626204}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &439269694
 MeshRenderer:
@@ -1039,7 +1039,7 @@ Transform:
   m_LocalScale: {x: 8.805338, y: 127.56989, z: 8.805338}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 22
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &511511545
 MeshRenderer:
@@ -1111,7 +1111,7 @@ GameObject:
   - component: {fileID: 614157319}
   - component: {fileID: 614157318}
   m_Layer: 0
-  m_Name: Arbusto1
+  m_Name: Arbusto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1129,7 +1129,7 @@ Transform:
   m_LocalScale: {x: 57.61631, y: 57.61631, z: 57.61631}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &614157318
 MeshRenderer:
@@ -1206,7 +1206,7 @@ Transform:
   m_LocalScale: {x: 31.626204, y: 31.626204, z: 31.626204}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &772061267
 MeshRenderer:
@@ -1297,7 +1297,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 14
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 57.222004, z: 0}
 --- !u!23 &792293584
 MeshRenderer:
@@ -1450,7 +1450,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 16
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: -11.773001, y: 0, z: 0}
 --- !u!23 &852136773
 MeshRenderer:
@@ -1541,7 +1541,7 @@ Transform:
   m_LocalScale: {x: 18.61206, y: 18.61206, z: 18.61206}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &870849873
 MeshRenderer:
@@ -1632,7 +1632,7 @@ Transform:
   m_LocalScale: {x: 8.805338, y: 127.56989, z: 8.805338}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 24
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &951168653
 MeshRenderer:
@@ -1723,7 +1723,7 @@ Transform:
   m_LocalScale: {x: 8.805338, y: 127.56989, z: 8.805338}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 21
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &951727819
 MeshRenderer:
@@ -1886,6 +1886,8 @@ Transform:
   m_LocalPosition: {x: 0.15178, y: 0.211, z: -0.137}
   m_LocalScale: {x: 0.121804, y: 0.121804, z: 0.121804}
   m_Children:
+  - {fileID: 52963439}
+  - {fileID: 1729642303}
   - {fileID: 614157317}
   - {fileID: 1918561226}
   - {fileID: 19631303}
@@ -1911,8 +1913,6 @@ Transform:
   - {fileID: 511511544}
   - {fileID: 1549017932}
   - {fileID: 951168652}
-  - {fileID: 1729642303}
-  - {fileID: 52963439}
   - {fileID: 1058759518}
   m_Father: {fileID: 303091443}
   m_RootOrder: 0
@@ -1948,7 +1948,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 15
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: -64.69601, z: 0}
 --- !u!23 &1225765417
 MeshRenderer:
@@ -2066,7 +2066,7 @@ Transform:
   m_LocalScale: {x: 31.626204, y: 31.626204, z: 31.626204}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1462584356
 MeshRenderer:
@@ -2223,7 +2223,7 @@ Transform:
   m_LocalScale: {x: 25.745337, y: 25.745337, z: 25.745337}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1482111732
 MeshRenderer:
@@ -2314,7 +2314,7 @@ Transform:
   m_LocalScale: {x: 2.7908177, y: 315.55716, z: 2.7908177}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 23
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1549017933
 MeshRenderer:
@@ -2405,7 +2405,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 11
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1549838504
 MeshRenderer:
@@ -2496,7 +2496,7 @@ Transform:
   m_LocalScale: {x: 31.626204, y: 31.626204, z: 31.626204}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 10
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1622568307
 MeshRenderer:
@@ -2742,7 +2742,7 @@ Transform:
   m_LocalScale: {x: 18.61206, y: 18.61206, z: 18.61206}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1709604410
 MeshRenderer:
@@ -2833,7 +2833,7 @@ Transform:
   m_LocalScale: {x: 19.452576, y: 19.452576, z: 19.452576}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 25
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1729642304
 MeshRenderer:
@@ -3027,7 +3027,7 @@ Transform:
   m_LocalScale: {x: 9.857962, y: 142.8201, z: 9.857962}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 17
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1875430165
 MeshRenderer:
@@ -3118,7 +3118,7 @@ Transform:
   m_LocalScale: {x: 2.581972, y: 291.943, z: 2.581972}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 19
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1895376428
 MeshRenderer:
@@ -3190,7 +3190,7 @@ GameObject:
   - component: {fileID: 1918561228}
   - component: {fileID: 1918561227}
   m_Layer: 0
-  m_Name: Arbusto2
+  m_Name: Arbusto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3208,7 +3208,7 @@ Transform:
   m_LocalScale: {x: 57.61631, y: 57.61631, z: 57.61631}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1918561227
 MeshRenderer:
@@ -3285,7 +3285,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 13
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2106236790
 MeshRenderer:
@@ -3376,7 +3376,7 @@ Transform:
   m_LocalScale: {x: 33.87882, y: 33.87882, z: 33.87882}
   m_Children: []
   m_Father: {fileID: 1174041296}
-  m_RootOrder: 12
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2129987001
 MeshRenderer:

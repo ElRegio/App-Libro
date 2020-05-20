@@ -2194,6 +2194,94 @@ Prefab:
       propertyPath: m_Name
       value: Tlalcoyote
       objectReference: {fileID: 0}
+    - target: {fileID: 400018, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400016, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 400008, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400022, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400020, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400014, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400010, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: CuadroPastizales
+      objectReference: {fileID: 0}
+    - target: {fileID: 400024, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400028, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100016, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Pasto
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
+      propertyPath: m_Name
+      value: Piedra
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e60f3380f58c524bbd89a3901a03d46, type: 3}
   m_IsPrefabAsset: 0

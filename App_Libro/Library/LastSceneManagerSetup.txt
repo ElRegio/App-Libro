@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Pastizales/Cuadro_Berrendo.unity
+- path: Assets/Scenes/SelvaSeca/Cuadro_Comadreja.unity
   isLoaded: 1
   isActive: 1

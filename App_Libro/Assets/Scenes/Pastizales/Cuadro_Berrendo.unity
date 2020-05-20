@@ -273,7 +273,7 @@ GameObject:
   - component: {fileID: 222750519}
   - component: {fileID: 222750518}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto2
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -291,7 +291,7 @@ Transform:
   m_LocalScale: {x: 8.325265, y: 8.325265, z: 8.325265}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &222750518
 MeshRenderer:
@@ -640,7 +640,7 @@ GameObject:
   - component: {fileID: 438166961}
   - component: {fileID: 438166960}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto5
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -658,7 +658,7 @@ Transform:
   m_LocalScale: {x: 3.541237, y: 3.541237, z: 3.541237}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &438166960
 MeshRenderer:
@@ -716,7 +716,7 @@ GameObject:
   - component: {fileID: 458564874}
   - component: {fileID: 458564873}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:polySurface3
+  m_Name: CuadroPastizales
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,7 +734,7 @@ Transform:
   m_LocalScale: {x: 1000, y: 1000, z: 1000}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 11
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &458564873
 MeshRenderer:
@@ -1523,7 +1523,7 @@ GameObject:
   - component: {fileID: 676501242}
   - component: {fileID: 676501241}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto4
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1541,7 +1541,7 @@ Transform:
   m_LocalScale: {x: 4.1383266, y: 4.1383266, z: 4.1383266}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &676501241
 MeshRenderer:
@@ -2046,8 +2046,9 @@ Transform:
   m_LocalPosition: {x: 0.128, y: 0.20043002, z: -0.12749}
   m_LocalScale: {x: 0.122, y: 0.122, z: 0.122}
   m_Children:
-  - {fileID: 947004785}
+  - {fileID: 458564872}
   - {fileID: 1510923262}
+  - {fileID: 947004785}
   - {fileID: 1623981976}
   - {fileID: 1155172223}
   - {fileID: 2013483944}
@@ -2057,7 +2058,6 @@ Transform:
   - {fileID: 438166959}
   - {fileID: 1119949371}
   - {fileID: 911943510}
-  - {fileID: 458564872}
   - {fileID: 840778552}
   - {fileID: 2084636138}
   m_Father: {fileID: 303091443}
@@ -2075,7 +2075,7 @@ GameObject:
   - component: {fileID: 911943512}
   - component: {fileID: 911943511}
   m_Layer: 0
-  m_Name: PiedraDato
+  m_Name: Piedra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2093,7 +2093,7 @@ Transform:
   m_LocalScale: {x: 53.13368, y: 53.13368, z: 53.13368}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &911943511
 MeshRenderer:
@@ -2170,7 +2170,7 @@ Transform:
   m_LocalScale: {x: 11.5710335, y: 11.5710335, z: 11.5710335}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &947004786
 MeshRenderer:
@@ -2319,7 +2319,7 @@ GameObject:
   - component: {fileID: 1119949373}
   - component: {fileID: 1119949372}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto6
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2337,7 +2337,7 @@ Transform:
   m_LocalScale: {x: 7.148783, y: 7.148783, z: 7.148783}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1119949372
 MeshRenderer:
@@ -2414,7 +2414,7 @@ Transform:
   m_LocalScale: {x: 5.298341, y: 5.298341, z: 5.298341}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1155172224
 MeshRenderer:
@@ -2484,7 +2484,7 @@ GameObject:
   - component: {fileID: 1197239594}
   - component: {fileID: 1197239593}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto3
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2502,7 +2502,7 @@ Transform:
   m_LocalScale: {x: 8.325265, y: 8.325265, z: 8.325265}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1197239593
 MeshRenderer:
@@ -3158,7 +3158,7 @@ Transform:
   m_LocalScale: {x: 5.298341, y: 5.298341, z: 5.298341}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1623981977
 MeshRenderer:
@@ -3941,7 +3941,7 @@ GameObject:
   - component: {fileID: 2013483946}
   - component: {fileID: 2013483945}
   m_Layer: 0
-  m_Name: Berrendo_Render_0001:Pasto1
+  m_Name: Pasto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3959,7 +3959,7 @@ Transform:
   m_LocalScale: {x: 8.325265, y: 8.325265, z: 8.325265}
   m_Children: []
   m_Father: {fileID: 909337099}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2013483945
 MeshRenderer:
