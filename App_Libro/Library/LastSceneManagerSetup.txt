@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Islas/Isla_SelvaSeca.unity
+- path: Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
   isLoaded: 1
   isActive: 1

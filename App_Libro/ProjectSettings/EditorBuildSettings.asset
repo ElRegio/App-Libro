@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Selva_Humeda.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Principal.unity
     guid: a4b75789cc566f14daccd515400308be
@@ -45,7 +45,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Pastizales/Cuadro_Tlalcoyote.unity
     guid: e3e31998c5e1585469c2c02afd8c0b64
   - enabled: 0
-    path: Assets/Scenes/Cuadro_Isla.unity
+    path: Assets/Scenes/Islas/Isla_BosqueTemplado.unity
     guid: aa011f87fa2c6bc479cd121472abb7fb
   - enabled: 0
     path: Assets/Pantallas/PantallaPrincipal/Pruebaboton.unity
@@ -65,7 +65,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
     guid: de4a7cdb51917bc43a2ecd97e0537b8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Borrego.unity
     guid: a4ff6c8544647b24785292f8f0772fa7
+  - enabled: 0
+    path: Assets/Scenes/Matorrales/Cuadro_Coyote.unity
+    guid: 570ed2a2ddfd98246896d3c96c5681b7
+  - enabled: 0
+    path: Assets/Scenes/Matorrales/Cuadro_Liebre.unity
+    guid: ba1ed4561bb3fe44ea568c55504ddbe0
+  - enabled: 0
+    path: Assets/Scenes/Matorrales/Cuadro_Pecari.unity
+    guid: ddc2d6d688057294b9f3b9f5bc056f78
+  - enabled: 1
+    path: Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
+    guid: 4203dfe94bbab3c48b268732d2800f96
   m_configObjects: {}
