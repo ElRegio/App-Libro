@@ -2,7 +2,7 @@ Android
 PlayerPath?
 C:/Users/Gerardo/Desktop/apk/Animalejos.apk
 SceneListBegin?
-Assets/Scenes/BosqueTemplado/Cuadro_CoatíNorteño.unity
+Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -120,6 +120,7 @@ c7dd12c15208b0447e101f80038706df UnityEngine.Timeline.dll:UnityEngine.Timeline.A
 64f3a13c1277a7f1324321d93d0ec13b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPerritoInfo
 66b3109aa5921cf800bec17926c6adba Unity.TextMeshPro.dll:TMPro.TMP_SubMeshUI
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnCoatiInfo
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnBorregoInfo
 201273fb4f889724fb090164b7d6c657 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 486cd95c82d8305219c352c06b776e1f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -421,4 +422,7 @@ c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnCoatiInfo
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoInfo
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPumaInfo
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnTlacuacheInfo
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnVenadoCBInfo

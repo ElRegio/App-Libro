@@ -80,7 +80,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
     guid: 4203dfe94bbab3c48b268732d2800f96
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/BosqueTemplado/Cuadro_Coat\xEDNorte\xF1o.unity"
     guid: 54357658bccea654a83f5835637caedd
+  - enabled: 0
+    path: Assets/Scenes/BosqueTemplado/Cuadro_OsoNegro.unity
+    guid: a75e6af1978ad964f9a29f007b94a9ad
+  - enabled: 0
+    path: Assets/Scenes/BosqueTemplado/Cuadro_Puma.unity
+    guid: 1cee6a138e3a7d44b89263945629aee5
+  - enabled: 0
+    path: Assets/Scenes/BosqueTemplado/Cuadro_Tlacuache.unity
+    guid: 499cec542ef740948a7e771054daae51
+  - enabled: 1
+    path: Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
+    guid: 70e97f534b232b444ac32bb86b951d22
   m_configObjects: {}
