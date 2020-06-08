@@ -2,12 +2,48 @@ Android
 PlayerPath?
 C:/Users/Gerardo/Desktop/apk/Animalejos.apk
 SceneListBegin?
+Assets/Scenes/Pantallas/Pantalla_Ecosistemas.unity
+Assets/Scenes/Pantallas/Pantalla_SelvaHumeda.unity
+Assets/Scenes/Pantallas/Pantalla_SelvaSeca.unity
+Assets/Scenes/Pantallas/Pantalla_Bosque.unity
+Assets/Scenes/Pantallas/Pantalla_Pastizales.unity
+Assets/Scenes/Pantallas/Pantalla_Matorrales.unity
+Assets/Scenes/Islas/Isla_SelvaHumeda.unity
+Assets/Scenes/SelvaHumeda/Cuadro_Jabali.unity
+Assets/Scenes/SelvaHumeda/Cuadro_Nutria.unity
+Assets/Scenes/SelvaHumeda/Cuadro_OsoHormiguero.unity
+Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
+Assets/Scenes/SelvaHumeda/Cuadro_Tapir.unity
+Assets/Scenes/Islas/Isla_BosqueTemplado.unity
+Assets/Scenes/BosqueTemplado/Cuadro_CoatíNorteño.unity
+Assets/Scenes/BosqueTemplado/Cuadro_OsoNegro.unity
+Assets/Scenes/BosqueTemplado/Cuadro_Puma.unity
+Assets/Scenes/BosqueTemplado/Cuadro_Tlacuache.unity
 Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
+Assets/Scenes/Islas/Isla_Matorrales.unity
+Assets/Scenes/Matorrales/Cuadro_Borrego.unity
+Assets/Scenes/Matorrales/Cuadro_Coyote.unity
+Assets/Scenes/Matorrales/Cuadro_Liebre.unity
+Assets/Scenes/Matorrales/Cuadro_Pecari.unity
+Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
+Assets/Scenes/Islas/Isla_Pastizales.unity
+Assets/Scenes/Pastizales/Cuadro_Berrendo.unity
+Assets/Scenes/Pastizales/Cuadro_Bisonte.unity
+Assets/Scenes/Pastizales/Cuadro_Conejo.unity
+Assets/Scenes/Pastizales/Cuadro_Perrito.unity
+Assets/Scenes/Pastizales/Cuadro_Tlalcoyote.unity
+Assets/Scenes/Islas/Isla_SelvaSeca.unity
+Assets/Scenes/SelvaSeca/Cuadro_Armadillo.unity
+Assets/Scenes/SelvaSeca/Cuadro_Comadreja.unity
+Assets/Scenes/SelvaSeca/Cuadro_Jaguar.unity
+Assets/Scenes/SelvaSeca/Cuadro_Mapache.unity
+Assets/Scenes/SelvaSeca/Cuadro_Ocelote.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.SceneAndURLLoader
 95c241412033d75da3b2703947abc86e Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExtinguishableParticleSystem
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnVenadoCBInfo
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
 486cd95c82d8305219c352c06b776e1f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 9e61f3535f3c55760a1cedfbd114f4af UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -105,7 +141,9 @@ e90403eeda069970e0b9de1533de13a6 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Ball.BallUserControl
 109ca2c01d48b39c29df869bbd900f15 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Cameras.AutoCam
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.cambiarrapido
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnComadrejaInfo
 68203a2d90186aa6245d3bc6e3f65b52 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectActivator
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOceloteInfo
 486cd95c82d8305219c352c06b776e1f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 9e61f3535f3c55760a1cedfbd114f4af UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 754551afe4f2531f58476bf14c510657 UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -139,6 +177,7 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 fb21d153624fd600be09f3bf01a77c29 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.WheelEffects
 0b47ba653144ac51d96c3bc5919435ab Assembly-CSharp-firstpass.dll:UnityStandardAssets.Cameras.ProtectCameraFromWallClip
 e7489514a648ce787e3e741d97e0f561 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointProgressTracker
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnTlacuacheInfo
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 486cd95c82d8305219c352c06b776e1f VuforiaScripts.dll:.DefaultInitializationErrorHandler
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LPWWaterChunk
@@ -250,9 +289,11 @@ a455c7a94d636e997cf13415fea7bbb1 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 9d2dcb93c6d3966022839f0e4ec3fa63 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Water.PlanarReflection
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Water.Displace
 486cd95c82d8305219c352c06b776e1f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnJaguarInfo
 cb22aae4834244c9c8785a838a029ce1 Assembly-CSharp.dll:UnityStandardAssets.SceneUtils.ParticleSceneControls
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPecariInfo
 d779870eb644317fc07a0875d13a59a4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.LandingGear
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnArmadilloInfo
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.MobileControlRig
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.ObjectResetter
 16ce7edbc610086bae3b4704c4258247 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.AfterburnerPhysicsForce
@@ -329,6 +370,7 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 f2143d8859d27c6fb35088337df79fd9 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.AeroplaneControlSurfaceAnimator
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 06d51b8055e70ca39cec8ba3a3a6b0e1 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Car.CarAudio
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPumaInfo
 93ff3baa7264bc68b2f5d42afd44e6be Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Aeroplane.AeroplaneUserControl2Axis
 a8235c217b6cf2fe27dca896710ae4ec Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.WaterHoseParticles
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
@@ -336,10 +378,12 @@ f5476454eb86e1817e25a825263133c9 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:LPWAsset.LPWDepthEffect
 ebc31dc7976aeffcc84e23b049016bd0 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FollowTarget
 e7243432dd281e72011751efc287823c Assembly-CSharp-firstpass.dll:UnityStandardAssets._2D.Camera2DFollow
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoInfo
 2d5613dfea5ebe89d441816537142920 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TouchPad
 76d2df27be185e27e116e08df79b3271 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Vehicles.Ball.Ball
 5b83580a22df4ed5e756000935aa4092 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.TimedObjectDestructor
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Water.GerstnerDisplace
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnMapacheInfo
 63b1d9ebe2d595f39b6b7350000aa0e6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.Explosive
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoHormigueroInfo
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
@@ -422,7 +466,3 @@ c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnOsoInfo
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPumaInfo
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnTlacuacheInfo
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnVenadoCBInfo

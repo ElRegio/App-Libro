@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
+- path: Assets/Scenes/SelvaSeca/Cuadro_Mapache.unity
   isLoaded: 1
   isActive: 1

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="SelvaSeca" size="10.000000 7.727273" />
+    <ImageTarget name="SelvaHumeda" size="10.000000 7.727273" />
+    <ImageTarget name="Pastizales" size="10.000000 7.727273" />
+    <ImageTarget name="Matorrales" size="10.000000 7.727273" />
+    <ImageTarget name="Bosque" size="10.000000 7.727273" />
+    <ImageTarget name="Ocelote" size="10.000000 7.727273" />
+    <ImageTarget name="Jaguar" size="10.000000 7.727273" />
+    <ImageTarget name="Mapache" size="10.000000 7.727273" />
+    <ImageTarget name="Comadreja" size="10.000000 7.727273" />
+    <ImageTarget name="Armadillo" size="10.000000 7.727273" />
     <ImageTarget name="Venado" size="10.000000 7.727273" />
     <ImageTarget name="Tlacuache" size="10.000000 7.727273" />
     <ImageTarget name="Puma" size="10.000000 7.727273" />
