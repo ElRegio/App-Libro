@@ -11,115 +11,118 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Principal.unity
     guid: a4b75789cc566f14daccd515400308be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Ecosistemas.unity
     guid: bef301f97da23d4408730c4540d5055b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_SelvaHumeda.unity
     guid: 50be7e6f124a95a4eb3d69e5e8f58e81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_SelvaSeca.unity
     guid: 805babc3b7cbbc043ba31f858eca308e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Bosque.unity
     guid: 88642e2ae6973824684d0f8728e490d2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Pastizales.unity
     guid: fc52a9120e5869646a3f2133f59b290d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pantallas/Pantalla_Matorrales.unity
     guid: c7733169e41ae3c44935a0bfef8e7db8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Islas/Isla_SelvaHumeda.unity
     guid: 0b10d489a1c7c9c4ca7407153e0fa814
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Jabali.unity
     guid: 529e6da4c2b328d448e29405d95e75d5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Nutria.unity
     guid: 18458cc5b418a7d4ebb0bed6c43ca988
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_OsoHormiguero.unity
     guid: efb589f9875347a49b8c6bddece0bf49
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
     guid: de4a7cdb51917bc43a2ecd97e0537b8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaHumeda/Cuadro_Tapir.unity
     guid: 90a6c27839051dc4b8276ae60546645b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Islas/Isla_BosqueTemplado.unity
     guid: aa011f87fa2c6bc479cd121472abb7fb
-  - enabled: 1
+  - enabled: 0
     path: "Assets/Scenes/BosqueTemplado/Cuadro_Coat\xEDNorte\xF1o.unity"
     guid: 54357658bccea654a83f5835637caedd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BosqueTemplado/Cuadro_OsoNegro.unity
     guid: a75e6af1978ad964f9a29f007b94a9ad
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BosqueTemplado/Cuadro_Puma.unity
     guid: 1cee6a138e3a7d44b89263945629aee5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BosqueTemplado/Cuadro_Tlacuache.unity
     guid: 499cec542ef740948a7e771054daae51
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
     guid: 70e97f534b232b444ac32bb86b951d22
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Islas/Isla_Matorrales.unity
     guid: bbe7ab1b665a87c46bf1da0f45a70ad5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Borrego.unity
     guid: a4ff6c8544647b24785292f8f0772fa7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Coyote.unity
     guid: 570ed2a2ddfd98246896d3c96c5681b7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Liebre.unity
     guid: ba1ed4561bb3fe44ea568c55504ddbe0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Pecari.unity
     guid: ddc2d6d688057294b9f3b9f5bc056f78
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
     guid: 4203dfe94bbab3c48b268732d2800f96
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Islas/Isla_Pastizales.unity
     guid: 88a2f235651914648b354f41543df023
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pastizales/Cuadro_Berrendo.unity
     guid: c528cf0c4d44b874c91a96c9979289f8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pastizales/Cuadro_Bisonte.unity
     guid: d76549fc0060e2b448a06dc471a231c4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pastizales/Cuadro_Conejo.unity
     guid: b23517e7027fafd4b827ae0101bb5cc0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pastizales/Cuadro_Perrito.unity
     guid: 9734381035524cc49ab99d115e40906f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pastizales/Cuadro_Tlalcoyote.unity
     guid: e3e31998c5e1585469c2c02afd8c0b64
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Islas/Isla_SelvaSeca.unity
     guid: a5c93082267debc4286d4fd557733058
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaSeca/Cuadro_Armadillo.unity
     guid: 200e920cc7751eb4288a41c7416af952
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaSeca/Cuadro_Comadreja.unity
     guid: b023c8319b7beda489a55d02d6fa14ec
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaSeca/Cuadro_Jaguar.unity
     guid: fab6b1f6e59b81e4e8dc87a5004e6974
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaSeca/Cuadro_Mapache.unity
     guid: cb422e6719674cf4e92e6c0899557d62
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelvaSeca/Cuadro_Ocelote.unity
     guid: 4cb696f65d35f584fa722d68b33b3245
   - enabled: 0
     path: Assets/Pantallas/PantallaPrincipal/Pruebaboton.unity
     guid: 9ca184e2889926341939d117ff3d0264
+  - enabled: 1
+    path: Assets/Scenes/Pastizales/MultiTargetPastizales.unity
+    guid: 66c82fa5740bdaf4d9eb968d01108c01
   m_configObjects: {}

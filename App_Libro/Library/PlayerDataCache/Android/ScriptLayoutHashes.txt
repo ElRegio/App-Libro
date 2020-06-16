@@ -2,42 +2,7 @@ Android
 PlayerPath?
 C:/Users/Gerardo/Desktop/apk/Animalejos.apk
 SceneListBegin?
-Assets/Scenes/Pantallas/Pantalla_Ecosistemas.unity
-Assets/Scenes/Pantallas/Pantalla_SelvaHumeda.unity
-Assets/Scenes/Pantallas/Pantalla_SelvaSeca.unity
-Assets/Scenes/Pantallas/Pantalla_Bosque.unity
-Assets/Scenes/Pantallas/Pantalla_Pastizales.unity
-Assets/Scenes/Pantallas/Pantalla_Matorrales.unity
-Assets/Scenes/Islas/Isla_SelvaHumeda.unity
-Assets/Scenes/SelvaHumeda/Cuadro_Jabali.unity
-Assets/Scenes/SelvaHumeda/Cuadro_Nutria.unity
-Assets/Scenes/SelvaHumeda/Cuadro_OsoHormiguero.unity
-Assets/Scenes/SelvaHumeda/Cuadro_Temazate.unity
-Assets/Scenes/SelvaHumeda/Cuadro_Tapir.unity
-Assets/Scenes/Islas/Isla_BosqueTemplado.unity
-Assets/Scenes/BosqueTemplado/Cuadro_CoatíNorteño.unity
-Assets/Scenes/BosqueTemplado/Cuadro_OsoNegro.unity
-Assets/Scenes/BosqueTemplado/Cuadro_Puma.unity
-Assets/Scenes/BosqueTemplado/Cuadro_Tlacuache.unity
-Assets/Scenes/BosqueTemplado/Cuadro_VenadoColaBlanca.unity
-Assets/Scenes/Islas/Isla_Matorrales.unity
-Assets/Scenes/Matorrales/Cuadro_Borrego.unity
-Assets/Scenes/Matorrales/Cuadro_Coyote.unity
-Assets/Scenes/Matorrales/Cuadro_Liebre.unity
-Assets/Scenes/Matorrales/Cuadro_Pecari.unity
-Assets/Scenes/Matorrales/Cuadro_Zorrita.unity
-Assets/Scenes/Islas/Isla_Pastizales.unity
-Assets/Scenes/Pastizales/Cuadro_Berrendo.unity
-Assets/Scenes/Pastizales/Cuadro_Bisonte.unity
-Assets/Scenes/Pastizales/Cuadro_Conejo.unity
-Assets/Scenes/Pastizales/Cuadro_Perrito.unity
-Assets/Scenes/Pastizales/Cuadro_Tlalcoyote.unity
-Assets/Scenes/Islas/Isla_SelvaSeca.unity
-Assets/Scenes/SelvaSeca/Cuadro_Armadillo.unity
-Assets/Scenes/SelvaSeca/Cuadro_Comadreja.unity
-Assets/Scenes/SelvaSeca/Cuadro_Jaguar.unity
-Assets/Scenes/SelvaSeca/Cuadro_Mapache.unity
-Assets/Scenes/SelvaSeca/Cuadro_Ocelote.unity
+Assets/Scenes/Pastizales/MultiTargetPastizales.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -466,3 +431,4 @@ c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.BtnPastizalesInfo

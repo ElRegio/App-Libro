@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SelvaSeca/Cuadro_Mapache.unity
+- path: Assets/Scenes/Pastizales/MultiTargetPastizales.unity
   isLoaded: 1
   isActive: 1

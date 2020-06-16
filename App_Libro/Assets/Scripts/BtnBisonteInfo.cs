@@ -6,25 +6,25 @@ public class BtnBisonteInfo : MonoBehaviour {
 
     string btnName;
     int Conteo;
-    GameObject DatoBorrego;
+    GameObject DatoBisonte;
     GameObject DatoAlamo;
     GameObject DatoSicomoro;
     GameObject DatoMaguey;
-    GameObject DDatoBorrego2;
-    GameObject DatoBorrego3;
+    GameObject DatoBisonte2;
+    GameObject DatoBisonte3;
 
     // Use this for initializationDatoBorrego
     void Start()
     {
 
-        DatoBorrego = GameObject.Find("BisonteDato");
-        DatoBorrego.SetActive(false);
+        DatoBisonte = GameObject.Find("BisonteDato");
+        DatoBisonte.SetActive(false);
 
-        DDatoBorrego2 = GameObject.Find("BisonteDato2");
-        DDatoBorrego2.SetActive(false);
+        DatoBisonte2 = GameObject.Find("BisonteDato2");
+        DatoBisonte2.SetActive(false);
 
-        DatoBorrego3 = GameObject.Find("BisonteDato3");
-        DatoBorrego3.SetActive(false);
+        DatoBisonte3 = GameObject.Find("BisonteDato3");
+        DatoBisonte3.SetActive(false);
 
         DatoAlamo = GameObject.Find("AlamoDato");
         DatoAlamo.SetActive(false);
@@ -36,21 +36,21 @@ public class BtnBisonteInfo : MonoBehaviour {
         DatoMaguey.SetActive(false);
     }
 
-    public void Next()
+    public void NextBisonte()
     {
-            DatoBorrego.SetActive(false);
-        DDatoBorrego2.SetActive(true);
+        DatoBisonte.SetActive(false);
+        DatoBisonte2.SetActive(true);
     }
-    public void Next2()
+    public void Next2Bisonte()
     {
-        DDatoBorrego2.SetActive(false);
-        DatoBorrego3.SetActive(true);
+        DatoBisonte2.SetActive(false);
+        DatoBisonte3.SetActive(true);
     }
     public void Close()
     {
-        DatoBorrego.SetActive(false);
-        DDatoBorrego2.SetActive(false);
-        DatoBorrego3.SetActive(false);
+        DatoBisonte.SetActive(false);
+        DatoBisonte2.SetActive(false);
+        DatoBisonte3.SetActive(false);
         DatoAlamo.SetActive(false);
         DatoSicomoro.SetActive(false);
         DatoMaguey.SetActive(false);
@@ -72,39 +72,39 @@ public class BtnBisonteInfo : MonoBehaviour {
                 switch (btnName)
                 {
                     case "Bisonte":
-                        DatoBorrego.SetActive(true);
+                        DatoBisonte.SetActive(true);
                         DatoAlamo.SetActive(false);
                         DatoSicomoro.SetActive(false);
                         DatoMaguey.SetActive(false);
-                        DDatoBorrego2.SetActive(false);
-                        DatoBorrego3.SetActive(false);
+                        DatoBisonte2.SetActive(false);
+                        DatoBisonte3.SetActive(false);
                         break;
 
                     case "Alamo":
                         DatoAlamo.SetActive(true);
-                        DatoBorrego.SetActive(false);
+                        DatoBisonte.SetActive(false);
                         DatoSicomoro.SetActive(false);
                         DatoMaguey.SetActive(false);
-                        DDatoBorrego2.SetActive(false);
-                        DatoBorrego3.SetActive(false);
+                        DatoBisonte2.SetActive(false);
+                        DatoBisonte3.SetActive(false);
                         break;
 
                     case "Sicomoro":
                         DatoSicomoro.SetActive(true);
-                        DatoBorrego.SetActive(false);
+                        DatoBisonte.SetActive(false);
                         DatoMaguey.SetActive(false);
                         DatoAlamo.SetActive(false);
-                        DDatoBorrego2.SetActive(false);
-                        DatoBorrego3.SetActive(false);
+                        DatoBisonte2.SetActive(false);
+                        DatoBisonte3.SetActive(false);
                         break;
 
                     case "Maguey":
                         DatoMaguey.SetActive(true);
-                        DatoBorrego.SetActive(false);
+                        DatoBisonte.SetActive(false);
                         DatoAlamo.SetActive(false);
                         DatoSicomoro.SetActive(false);
-                        DDatoBorrego2.SetActive(false);
-                        DatoBorrego3.SetActive(false);
+                        DatoBisonte2.SetActive(false);
+                        DatoBisonte3.SetActive(false);
                         break;
 
                 }
