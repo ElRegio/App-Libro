@@ -36,7 +36,7 @@ public class BtnJaguarInfo : MonoBehaviour
 
     }
 
-    public void Next()
+    public void JaguarNext()
     {
         DatoJaguar.SetActive(false);
         DatoJaguar2.SetActive(true);

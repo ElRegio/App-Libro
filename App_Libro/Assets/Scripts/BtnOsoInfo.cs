@@ -54,6 +54,7 @@ public class BtnOsoInfo : MonoBehaviour
         DatoOso.SetActive(false);
         DatoOso2.SetActive(false);
         DatoOso3.SetActive(false);
+        DatoOso4.SetActive(false);
         DatoPino.SetActive(false);
 
 

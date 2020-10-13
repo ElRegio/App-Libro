@@ -11,7 +11,7 @@ public class BtnOceloteInfo : MonoBehaviour
     GameObject DatoCazahuate;
     GameObject DatoColorin;
     GameObject DatoCactus;
-    GameObject DatoJaguar2;
+    GameObject DatoOcelote2;
 
     // Use this for initialization
     void Start()
@@ -20,8 +20,8 @@ public class BtnOceloteInfo : MonoBehaviour
         DatoOcelote = GameObject.Find("OceloteDato");
         DatoOcelote.SetActive(false);
 
-        DatoJaguar2 = GameObject.Find("OceloteDato2");
-        DatoJaguar2.SetActive(false);
+        DatoOcelote2 = GameObject.Find("OceloteDato2");
+        DatoOcelote2.SetActive(false);
 
         DatoColorin = GameObject.Find("ColorinDato");
         DatoColorin.SetActive(false);
@@ -36,16 +36,16 @@ public class BtnOceloteInfo : MonoBehaviour
 
     }
 
-    public void Next()
+    public void OCeloteNext()
     {
         DatoOcelote.SetActive(false);
-        DatoJaguar2.SetActive(true);
+        DatoOcelote2.SetActive(true);
 
     }
     public void Close()
     {
         DatoOcelote.SetActive(false);
-        DatoJaguar2.SetActive(false);
+        DatoOcelote2.SetActive(false);
         DatoColorin.SetActive(false);
         DatoCazahuate.SetActive(false);
         DatoCactus.SetActive(false);
@@ -70,7 +70,7 @@ public class BtnOceloteInfo : MonoBehaviour
                         DatoCazahuate.SetActive(false);
                         DatoColorin.SetActive(false);
                         DatoCactus.SetActive(false);
-                        DatoJaguar2.SetActive(false);
+                        DatoOcelote2.SetActive(false);
                         break;
 
                     case "Cazahuate":
@@ -78,7 +78,7 @@ public class BtnOceloteInfo : MonoBehaviour
                         DatoOcelote.SetActive(false);
                         DatoColorin.SetActive(false);
                         DatoCactus.SetActive(false);
-                        DatoJaguar2.SetActive(false);
+                       
                         break;
 
                     case "Colorin":
@@ -86,7 +86,7 @@ public class BtnOceloteInfo : MonoBehaviour
                         DatoOcelote.SetActive(false);
                         DatoCazahuate.SetActive(false);
                         DatoCactus.SetActive(false);
-                        DatoJaguar2.SetActive(false);
+                       
                         break;
 
                     case "Cactus":
@@ -94,7 +94,7 @@ public class BtnOceloteInfo : MonoBehaviour
                         DatoOcelote.SetActive(false);
                         DatoCazahuate.SetActive(false);
                         DatoColorin.SetActive(false);
-                        DatoJaguar2.SetActive(false);
+                       
                         break;
 
                 }

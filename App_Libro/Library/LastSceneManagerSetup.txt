@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Pastizales/MultiTargetPastizales.unity
+- path: Assets/Scenes/Matorrales/Cuadro_Pecari.unity
   isLoaded: 1
   isActive: 1
